@@ -23,6 +23,32 @@ df_divisao = spark.sql("select * from desafio_curso.TBL_DIVISAO")
 # criando o fato
 ft_vendas = []
 
+ft = ft_vendas = spark.sql("""
+select customerkey, discount_amount, invoice_number, customerkey, item_class, item_number, item, line_number,list_prince,
+order_number, sales_amount, sales_amount_based_on_list_price, sales_cost_amount, sales_margin_amount, sales_price,
+sales_quantity, sales_rep
+from ft_vendas
+
+""")
+
+['customerkey',
+ 'discount_amount',
+ 'invoice_number',
+ 'customerkey',
+ 'item_class',
+ 'item_number',
+ 'item',
+ 'line_number',
+ 'list_prince',
+ 'order_number',
+ 'sales_amount',
+ 'sales_amount_based_on_list_price',
+ 'sales_cost_amount',
+ 'sales_margin_amount',
+ 'sales_price',
+ 'sales_quantity',
+ 'sales_rep']
+
 #criando as dimensões
 dim_clientes = []
 
