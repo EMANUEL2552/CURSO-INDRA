@@ -11,7 +11,7 @@ spark = SparkSession.builder.master("local[*]")\
     .enableHiveSupport()\
     .getOrCreate()
 
-# Criando dataframes diretamente do Hive
+# Criando dataframes diretamente do Hive -dfs
 df_vendas = spark.sql("select * from desafio_curso.TBL_VENDAS")
 df_clientes = spark.sql("select * from desafio_curso.TBL_CLIENTES")
 df_endereco = spark.sql("select * from desafio_curso.TBL_ENDERECO")
