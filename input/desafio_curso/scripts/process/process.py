@@ -69,6 +69,22 @@ select  business_family, business_unity, customer, customerkey, customer_type,
  'phone',
  'search_type']
 
+ dim_temp = df_vendas = spark.sql("""
+select actual_delivery_date, datekey, invoice_date, promised_delivery_date
+from dim_vendas
+
+
+""")
+
+dim_temp = df_vendas = spark.sql("""
+select actual_delivery_date, datekey, invoice_date, promised_delivery_date
+from dim_vendas
+
+
+""")
+
+salvar_df(df_vendas,file='dim_temp')
+
 # função para salvar os dados
 def salvar_df(df, file):
     output = "/input/desafio_hive/gold/" + file
