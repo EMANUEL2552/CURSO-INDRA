@@ -1,0 +1,684 @@
+City,country,customer address 1,customer address 2,customer address 3,customer address 4,state,zip code,Address Number,division,region code
+00-394 Warsaw,UK,Solec 44,nao informado,nao informado,nao informado,nao informado,,10000000,2,4
+112 Reyjavik,AU,Vagnhofda 23,nao informado,nao informado,nao informado,nao informado,,10000453,1,5
+1980 Santiago,UK,Avda Bdo O'Higgins,nao informado,nao informado,nao informado,nao informado,,10000455,2,1
+2215 TC Voorhout,IR,S Gravendam Seweg 53,nao informado,nao informado,nao informado,nao informado,,10000456,1,0
+4100 Porto,UK,Rua Eng Ferreira Dia 241-243,nao informado,nao informado,nao informado,nao informado,,10000457,1,5
+A 5102 Anthering,UK,Landstrasse 18,nao informado,nao informado,nao informado,nao informado,,10000458,2,4
+Akron,US,PO Box 6258,nao informado,nao informado,nao informado,OH,44312,10000460,2,2
+Albany,US,PO Box 99,nao informado,nao informado,nao informado,OR,97321,10000461,1,0
+Alexandria,US,3241 South Lower Tug Fork Road,nao informado,nao informado,nao informado,KY,41001,10000462,2,4
+Amarillo,US,3601 Amarillo Boulevard East,nao informado,nao informado,nao informado,TX,79107,10000466,2,1
+Anchorage,US,1301 East 64th Avenue,nao informado,nao informado,nao informado,AK,99518,10000469,1,0
+Anchorage,US,2192 Viking Drive,nao informado,nao informado,nao informado,AK,99501,10000471,1,5
+Anchorage,US,3100 Mt. View Drive,nao informado,nao informado,nao informado,AK,99501,10000472,2,1
+Andover,US,RR 2 BOX 9,nao informado,nao informado,nao informado,SD,57422-8811,10000473,2,1
+Anjou,CA,10401 Boul Parkway,nao informado,nao informado,nao informado,QU,H1V 1R4,10000474,2,4
+Appleton,US,PO Box 2017,nao informado,nao informado,nao informado,WI,54913,10000475,2,2
+Asuncion,UK,Av Eusebio Ayala 3321,nao informado,nao informado,nao informado,nao informado,33126-1214,10000478,2,2
+Atlanta,US,PO Box 19858 Station N,nao informado,nao informado,nao informado,GA,30325-0858,10000480,2,1
+Attica,US,DBA Badlands Off Road Park,3968 North Xavier Road,nao informado,nao informado,IN,47918,10000481,2,4
+Auburn,US,2402 West Valley Highway North,nao informado,nao informado,nao informado,WA,98001,10000486,1,5
+Augusta,US,PO box 204658,nao informado,nao informado,nao informado,GA,30917-4658,10000488,1,5
+Aurora,US,14312 Stenbock Way NE #F,nao informado,nao informado,nao informado,OR,97002,10000496,1,5
+Aurora,US,Chicago PDC #22,Attention  Accounts Payable,PO Box 2060,nao informado,IL,60507-2060,10000497,1,5
+Baton Rouge,US,9555 Airline Highway,nao informado,nao informado,nao informado,LA,70815,10000499,1,5
+Baton Rouge,US,PO Box 2484,nao informado,nao informado,nao informado,LA,70815,10000501,1,5
+Beamsville,CA,PO Box 640,nao informado,nao informado,nao informado,ON,L0R 1B0,10000502,1,5
+Beaumont,US,PO Box 790,nao informado,nao informado,nao informado,TX,77704,10000601,2,2
+Beaverton,US,6590 SW Fallbrook Place,(Commercial Industrial),nao informado,nao informado,OR,97008,10001103,1,5
+Bedford,US,Americas Body Company,PO Box 46539,nao informado,nao informado,OH,44146,10001263,1,5
+Bedford,US,PO Box 461090,nao informado,nao informado,nao informado,OH,44146,10001784,1,5
+Bedford Hills,US,731 North Beford Road,nao informado,nao informado,nao informado,NY,10507,10001786,1,5
+Beijing 100088,UK,PO Box 065,nao informado,nao informado,nao informado,nao informado,,10001818,1,5
+Beirut,AU,Dagher Plast Building 17,Baizoob Area,nao informado,nao informado,nao informado,,10002114,1,5
+Benicia,US,Attention:  Accounts Payable,5500 East Second Street 2nd Floor,nao informado,nao informado,CA,94510-1020,10002115,1,5
+Bensonville,US,1200 North Ellis Street,nao informado,nao informado,nao informado,IL,60106-1119,10002117,1,5
+Billings,US,226 North 13th,nao informado,nao informado,nao informado,MT,59101,10002128,1,5
+Birmingham,US,106 B David Green Road,nao informado,nao informado,nao informado,AL,35244,10002136,1,5
+Birmingham,US,PO Box 100603,nao informado,nao informado,nao informado,AL,35210,10002137,1,5
+Bogota,UK,Transversal 49 No. 102-00,nao informado,nao informado,nao informado,nao informado,,10002138,1,5
+Boise,US,601 East Gowen Road,nao informado,nao informado,nao informado,ID,83716,10002139,1,5
+Boucherville,CA,1391 Gay Lussac,nao informado,nao informado,nao informado,QU,J4B 7K1,10002140,1,5
+Boucherville,CA,170 Industrial Boulevard,nao informado,nao informado,nao informado,QU,J4B 2X3,10002142,1,5
+Bozeman,US,PO Box 549,nao informado,nao informado,nao informado,MT,59715,10002144,1,5
+Brea,US,3251 East Imperial Highway,Distributor #1111190,nao informado,nao informado,CA,92621,10002149,1,5
+Breckenridge,US,1760 C Airport Road,nao informado,nao informado,nao informado,CO,80424,10002150,1,5
+Bremen,UK,Weser Ems Strasse 2-4,nao informado,nao informado,nao informado,nao informado,D-28390,10002153,1,5
+Bremorton,US,3519 Arsonal Way,nao informado,nao informado,nao informado,WA,98312,10002154,1,5
+Brookfield,US,PO Box 366,nao informado,nao informado,nao informado,WI,53008,10002155,1,5
+Brookhaven,US,1127 South First Street NE,nao informado,nao informado,nao informado,MS,39601,10002159,1,5
+Brownsville,US,904 Billy Mitchell Boulevard,nao informado,nao informado,nao informado,TX,78521,10002161,1,5
+Buda,US,22015 South I-35,nao informado,nao informado,nao informado,TX,78610,10002220,1,0
+Buffalo,US,60 Depot Street,nao informado,nao informado,nao informado,NY,14206,10002240,2,3
+Buffdale,US,14296 South Pony Express Road,nao informado,nao informado,nao informado,UT,84065,10002244,2,2
+Burnaby,CA,5325 Still Creek Road,nao informado,nao informado,nao informado,BC,V2X 3K6,10002412,1,5
+Burnsville,US,3513 West Highway 13,nao informado,nao informado,nao informado,MN,55337,10002489,2,2
+Calgary,CA,10901 Macleod Trail South,nao informado,nao informado,nao informado,AB,T2J 4L3,10002501,1,5
+Calgary,CA,2916-21st Street Northeast,nao informado,nao informado,nao informado,AB,T2E 6Z2,10002506,2,1
+Calgary,CA,308 53 Avenue SE,nao informado,nao informado,nao informado,AB,T2H 0N3,10002520,1,5
+Calhoun,US,PO Box 547,nao informado,nao informado,nao informado,LA,71225-0547,10002526,1,5
+Cali,UK,Av 6A Norte 25 N 43,nao informado,nao informado,nao informado,nao informado,,10002709,2,1
+Canton,US,Attention: Accounts Payable Department,PO Box 8844,nao informado,nao informado,OH,44711-8844,10002746,2,4
+Canton,US,PO Box 80509,nao informado,nao informado,nao informado,OH,44708,10002765,2,2
+Cape Girardeau,US,Global Motorsport Parts Inc,PO Box 1179,nao informado,nao informado,MO,63702,10002964,1,0
+Carcas,UK,Av Blandin Chacao,nao informado,nao informado,nao informado,nao informado,,10002969,2,3
+Casper,US,1275 North 6 Mile Road,nao informado,nao informado,nao informado,WY,82604,10003554,1,5
+Casper,US,1817 East Yellowstone,nao informado,nao informado,nao informado,WY,82601,10003687,1,5
+Cass City,US,PO Box 113,nao informado,nao informado,nao informado,MI,48726,10003720,2,3
+Charlotte,US,5745 N Tryon Street,nao informado,nao informado,nao informado,NC,28213,10003749,1,5
+Charlotte,US,PO Box 36409,nao informado,nao informado,nao informado,NC,28236,10003795,2,2
+Chattanooga,US,2401 East 31st Street,PO Box 72638,nao informado,nao informado,TN,37407,10003857,1,5
+Chicago,US,4200 S Morgan Street,nao informado,nao informado,nao informado,IL,60609,10003882,1,5
+Chicago,US,Box 5516,nao informado,nao informado,nao informado,IL,60680,10004207,1,5
+Chippewa Falls,US,13296 County Highway 00,nao informado,nao informado,nao informado,WI,54729,10004245,2,1
+Cincinnati,US,12110 Best Place,nao informado,nao informado,nao informado,OH,45241,10004255,1,5
+Clackamas,US,12900 SE Capps Road,nao informado,nao informado,nao informado,OR,97015,10004256,2,1
+Clackamas,US,13101 SE 84th ave,Suite B,nao informado,nao informado,OR,97015-9733,10004302,2,2
+Clemson,US,PO Box 1006,nao informado,nao informado,nao informado,SC,29633,10004516,1,5
+Cleveland,US,1287 US Highway 59 North,nao informado,nao informado,nao informado,TX,77327,10004602,1,5
+Cleveland,US,PO Box 899,nao informado,nao informado,nao informado,MS,38732-0899,10005006,2,1
+Coldwater,US,400 Jay Street,nao informado,nao informado,nao informado,MI,49036,10005043,1,5
+Colorado Springs,US,4260 North Nevada Avenue,nao informado,nao informado,nao informado,CO,80907,10005099,1,5
+Columbia,US,PO Box 26,nao informado,nao informado,nao informado,SC,29202,10005236,1,5
+Columbiana,US,PO Box 57,nao informado,nao informado,nao informado,OH,44408,10005376,1,5
+Columbus,US,Defense Const. Supply Center,PO Box 16791,nao informado,nao informado,OH,43216,10005620,1,5
+Compton,US,801 West Artesia Boulevard,nao informado,nao informado,nao informado,CA,90220,10005688,1,5
+Corona,US,1477 Davril Circle,nao informado,nao informado,nao informado,CA,92880,10005810,1,5
+Corona,US,395 Smitty Way,nao informado,nao informado,nao informado,CA,91720,10005861,1,5
+Costa Mesa,US,Los Angeles PDC #14,Attention   Accounts Payable,PO Box 5555,nao informado,CA,92626-5555,10005919,1,5
+Cramerton,US,125 Hampton Ct.,nao informado,nao informado,nao informado,NC,28032,10005922,1,5
+Creedmoor,US,1550 Aereli Avenue,nao informado,nao informado,nao informado,NC,27522,10006037,2,2
+Crestwood,US,13907 S Kostner Avenue,nao informado,nao informado,nao informado,IL,60445-2205,10006093,2,4
+Cypress,US,PO Box 762,nao informado,nao informado,nao informado,CA,90630,10006805,2,2
+D 95326 Kulmbach,UK,Am Schwimmbad 8,Postfach 2008,nao informado,nao informado,nao informado,,10006836,1,5
+Dallas,US,10400 Plano Road,nao informado,nao informado,nao informado,TX,75238,10006846,2,1
+Dallas,US,334 North Hall Street,nao informado,nao informado,nao informado,TX,75226,10006848,2,3
+Dearborn,US,Central Accounting Service,PO Box 6005,nao informado,nao informado,MI,48121,10006862,2,2
+Depere,US,1151 W Main,nao informado,nao informado,nao informado,WI,54115,10006916,1,5
+Des Moines,US,PO Box 3265,nao informado,nao informado,nao informado,IA,50316,10006917,1,5
+Des Moines,US,PO Box 3283,nao informado,nao informado,nao informado,IA,50316-0283,10006919,1,5
+Dover,US,217 West 3rd Street,nao informado,nao informado,nao informado,OH,44622,10006977,1,5
+Dubai,UK,PO Box 12932,nao informado,nao informado,nao informado,nao informado,,10006983,1,5
+Duluth,US,3564 Buford Highway,nao informado,nao informado,nao informado,GA,30096,10007117,1,5
+Eagan,US,580 Yankee Doodle Rd Ste 1200,nao informado,nao informado,nao informado,MN,55121,10007120,2,1
+East Providence,US,580 Waterman Avenue,nao informado,nao informado,nao informado,RI,2914,10007121,2,4
+Eau Claire,US,5100 Highway 93 South,nao informado,nao informado,nao informado,WI,54701,10007122,2,2
+Edmonton,CA,16215 118th Avenue,nao informado,nao informado,nao informado,AB,T5V 1C7,10007123,2,2
+Edmonton,CA,6710 76 Avenue,nao informado,nao informado,nao informado,AB,T6B 0A8,10007134,1,5
+Edmonton,CA,7223 Girard Road,nao informado,nao informado,nao informado,AB,T6B 2C5,10007163,1,5
+Edmonton,CA,8151 Wagner Road,nao informado,nao informado,nao informado,AB,T6E 4N6,10007183,1,5
+Edmonton,CA,9111 41 Avenue,nao informado,nao informado,nao informado,AB,T6E 5V2,10007253,1,5
+Edmonton,CA,9605 56th Avenue,nao informado,nao informado,nao informado,AB,T6E 0B2,10007258,1,5
+EE 0026 Tallinn,UK,Kadaka Road 72 a,nao informado,nao informado,nao informado,nao informado,,10007268,1,5
+El Cajon,US,316 Millar Avenue,nao informado,nao informado,nao informado,CA,92020,10007309,1,5
+El Paso,US,7210 Gateway East,nao informado,nao informado,nao informado,TX,79915,10007355,2,2
+El Paso,US,8901 Montana Avenue,nao informado,nao informado,nao informado,TX,79925,10007448,1,5
+Elizabethtown,US,PO Box 2143,nao informado,nao informado,nao informado,KY,42702-2143,10007457,1,5
+Elkhart,US,317 North Main Street,nao informado,nao informado,nao informado,IN,46516,10007468,1,5
+Elkhart,US,PO Box 4405,nao informado,nao informado,nao informado,IN,46514,10007536,1,5
+Elma,US,2210 Bowen Road,nao informado,nao informado,nao informado,NY,14059,10007564,2,2
+Enumclaw,US,907 Cole Street,nao informado,nao informado,nao informado,WA,98022,10007566,2,4
+Eugene,US,1942 W 11th Avenue,nao informado,nao informado,nao informado,OR,97402-3519,10007577,2,3
+Evansville,US,PO Box 5364,nao informado,nao informado,nao informado,IN,47716-5364,10007591,1,5
+Exeter,US,44 Tunkhannock Avenue,nao informado,nao informado,nao informado,PA,18643,10007866,1,5
+Fairmount,US,4353 W 1900 N-48,nao informado,nao informado,nao informado,IN,46928,10008134,2,3
+Fairview,US,PO Box 206,nao informado,nao informado,nao informado,NJ,7022,10008381,2,1
+Farmington,US,2015 San Juan Boulevard,nao informado,nao informado,nao informado,NM,87401,10008593,2,4
+FIN 00710,UK,Hiekkakiventie 7,nao informado,nao informado,nao informado,nao informado,710,10008596,2,2
+Flint,US,2400 R E O Drive,nao informado,nao informado,nao informado,MI,48507,10008602,2,3
+Flint,US,4103 Holiday Drive,nao informado,nao informado,nao informado,MI,48507,10008638,2,3
+Fort Collins,US,2649 East Mulberry Street,nao informado,nao informado,nao informado,CO,80524,10008893,2,1
+Fort Macleod,CA,Box 1178,nao informado,nao informado,nao informado,AB,T0L 0Z0,10009156,2,4
+Fort Smith,US,PO Box 849,nao informado,nao informado,nao informado,AR,72902-0849,10009356,2,4
+Fort Worth,US,Attention: Accounts Payable,4900 Alliance Gateway Freeway,nao informado,nao informado,TX,76177,10009606,1,5
+Framingham,US,703 Waverly Street,Route 135,nao informado,nao informado,MA,1702,10009623,2,2
+Frederick,US,5702 Industry Lane Unit B1 & 2,nao informado,nao informado,nao informado,MD,21704,10009631,2,1
+Fredericksburg,US,1101A Potomac Avenue,nao informado,nao informado,nao informado,VA,22405,10009633,1,5
+Fresno,US,1510 Merced Street,nao informado,nao informado,nao informado,CA,93706,10009639,1,5
+Fresno,US,3631 South Bagley Avenue,nao informado,nao informado,nao informado,CA,93725,10009642,2,4
+Ft Collins,US,1101 N College Avenue,nao informado,nao informado,nao informado,CO,80524,10009643,2,4
+Furstentum,AU,Kirchstrasse 39,FL 9490 Vaduz,nao informado,nao informado,nao informado,,10009645,1,5
+Gardena,US,17010 S Main Street,PO Box 88,nao informado,nao informado,CA,90248,10009647,2,1
+Garner,US,500 Highway 18 West,nao informado,nao informado,nao informado,IA,50438,10009650,1,5
+Georgetown,AU,PO Box 10361,nao informado,nao informado,nao informado,nao informado,,10009652,1,0
+Glen Burnie,US,7216 Ritchie Highway,nao informado,nao informado,nao informado,MD,21061,10009653,1,0
+Goodlettsville,US,709 Rivergate Parkway,nao informado,nao informado,nao informado,TN,37072,10009654,2,2
+Grand Rapids,US,2700 Northern Drive South East,nao informado,nao informado,nao informado,MI,49512,10009656,2,1
+Grand Rapids,US,3056 Eastern Avenue SE,nao informado,nao informado,nao informado,MI,49508,10009657,2,3
+Grand Rapids,US,910 North East 4th Street,nao informado,nao informado,nao informado,MN,55744,10009660,2,2
+Greenville,US,Greenville PDC #23,52 Bruce Road,nao informado,nao informado,SC,29605,10009662,2,3
+Greenwood,US,1201 Sycamore Avenue,nao informado,nao informado,nao informado,MS,38930,10009669,1,5
+Gretna,US,2125 Whitney Avenue,nao informado,nao informado,nao informado,LA,70056,10009672,2,1
+Guadalajara Jal Mexico,IR,Rinconada De La Floresta 1137,Rinconada Del Bosque CP,nao informado,nao informado,nao informado,44530,10009676,2,4
+Ham Lake,US,15625 Highway North East,nao informado,nao informado,nao informado,MN,55304,10009679,2,2
+Hamamatsu City,AU,RU-3 Hamamatsu Nishi,PO Box 1,nao informado,nao informado,nao informado,432-8611,10009697,2,2
+Hamel,US,FOB: Clackamas,Attention: Accounts Payable Department,PO Box 47700,nao informado,MN,55340-0700,10009863,1,5
+Hammond,US,7940 New Jersey Avenue,nao informado,nao informado,nao informado,IN,46323,10009885,1,0
+Hayward,US,19745 Meekland Avenue,nao informado,nao informado,nao informado,CA,94541,10009907,2,2
+Hayward,US,PO Box 4658,nao informado,nao informado,nao informado,CA,94540,10009985,2,1
+Hazelwood,US,6311 North Lindbergh Boulevard,nao informado,nao informado,nao informado,MO,63042,10010698,2,1
+Hermitage,US,2755 Kirila Boulevard,nao informado,nao informado,nao informado,PA,16148,10010717,2,4
+Hialeah,US,4760 NW 165th Street,nao informado,nao informado,nao informado,FL,33014,10010832,1,5
+Highland,US,PO Box 99,nao informado,nao informado,nao informado,IL,62249,10010855,1,5
+Hillsboro,US,PO Box 70,nao informado,nao informado,nao informado,OR,97123,10010865,1,5
+Hodgdon,US,99 Calais Road,nao informado,nao informado,nao informado,ME,4730,10010881,1,5
+Holden,US,PO Box 249,nao informado,nao informado,nao informado,LA,70744,10010882,1,5
+Houston,US,2301 Central Parkway,nao informado,nao informado,nao informado,TX,77092,10010884,1,0
+Houston,US,5300 Glenmont Drive,nao informado,nao informado,nao informado,TX,77081,10010886,2,1
+Houston,US,7600 South Santa Fe,nao informado,nao informado,nao informado,TX,77061,10010887,1,0
+Houston,US,8302 Jet Pilot,nao informado,nao informado,nao informado,TX,77075,10010897,2,2
+Huntington Beach,US,7392 Count Circle,nao informado,nao informado,nao informado,CA,92647,10010904,2,4
+Independence,US,13208 East 40 Highway,nao informado,nao informado,nao informado,MO,64055,10010906,2,3
+Indianapolis,US,3343 Shelby Street,nao informado,nao informado,nao informado,IN,46227,10010912,2,2
+Indianopolis,US,100 Gasoline Alley  Suite A,nao informado,nao informado,nao informado,IN,46222,10010914,2,4
+Industriestrasse 17,UK,Industriestrasse 17,8910 Affoltern AA,nao informado,nao informado,nao informado,,10010923,1,5
+Ingersoll,CA,300 Ingersoll Street,PO Box 1005,nao informado,nao informado,ON,N5C 4A6,10010935,2,4
+Irvine,US,9950 Jeronimo Road,Attention: Sohaila,nao informado,nao informado,CA,92618,10010969,2,4
+Irving,US,1477 E Highway 356,nao informado,nao informado,nao informado,TX,75060,10010970,2,2
+Irving,US,Dallas PDC #15,Attention  Accounts Payable,PO Box 167728,nao informado,TX,75016-7728,10010974,2,4
+Istanbul,AU,DUMEN SOK. No:3 D.9,GUMUSSUYU,Takism,nao informado,nao informado,80090,10010990,1,5
+Jackson,US,3650 Bay Street,nao informado,nao informado,nao informado,MS,39213,10011018,1,5
+Jacksonville,US,Jacksonville PDC #21,Attention  Accounts Payable,PO Box 23017,nao informado,FL,32241-3017,10011052,1,5
+Jacksonville,US,PO Box 6307,nao informado,nao informado,nao informado,FL,32236,10011089,1,5
+Jakarta Utara,AU,Kelapa Gading Kirana,Blok H13 Number 30-31,nao informado,nao informado,nao informado,,10011093,1,5
+Janesville,US,PO Box 5222,nao informado,nao informado,nao informado,WI,53547-5222,10011198,2,3
+Jasper,US,PO Box 174,nao informado,nao informado,nao informado,TX,75951,10011286,1,5
+Jeddah,AU,Al Thalia Street,PO Box 11605,nao informado,nao informado,nao informado,11443,10011345,1,5
+Jeddah,AU,PO Box 14311,nao informado,nao informado,nao informado,nao informado,21424,10011355,1,5
+Johannesburg,AU,PO Box 86222,City Deep 2049,nao informado,nao informado,nao informado,,10011360,1,5
+Johnson City,US,PO Box 5418,nao informado,nao informado,nao informado,TN,37602-5418,10011398,2,1
+Joliet,US,207 North Scott,nao informado,nao informado,nao informado,IL,60435,10011459,2,2
+Joliet,US,812 Draper Avenue,nao informado,nao informado,nao informado,IL,60432,10011499,1,5
+Kalamazoo,US,167 East Kalamazoo Avenue,nao informado,nao informado,nao informado,MI,49007,10011521,2,2
+Kanagawa,AU,1-16-33 Kotsubo Zushi,nao informado,nao informado,nao informado,nao informado,249-0008,10011546,1,5
+Kansas City,US,1920 East Front Street,nao informado,nao informado,nao informado,MO,64139-1538,10011600,1,5
+Kansas City,US,Attention:  Accounts Payable,686 South Adams,nao informado,nao informado,KS,66105,10011623,1,5
+Kent,US,730 North Central,nao informado,nao informado,nao informado,WA,98032,10011724,1,0
+Kilsyth,UK,PO Box 105,nao informado,nao informado,nao informado,nao informado,3136,10011732,1,5
+La Paz,UK,Plaza Venezuela 1413-1425,nao informado,nao informado,nao informado,nao informado,,10011734,2,2
+Lake Hamilton,US,PO Box 900,nao informado,nao informado,nao informado,FL,33851,10011821,1,5
+Lansing,US,16241 South Us 27,nao informado,nao informado,nao informado,MI,48906,10011842,1,5
+Laurel,US,17 Perry Road,nao informado,nao informado,nao informado,MS,39440,10011870,1,5
+Lennox,US,PO Box 409,nao informado,nao informado,nao informado,SD,57039,10011918,1,5
+Lewiston,US,12 Lexington Street,nao informado,nao informado,nao informado,ME,4240,10011923,2,4
+Libby,US,522 Montana Avenue,nao informado,nao informado,nao informado,MT,59923,10011979,1,5
+Lighthorne Warwick,UK,Vehicle Operations,Building 540 53G/23/1,Banbury Road,nao informado,nao informado,CV35 ORG,10011981,2,1
+Linares (Jaen),UK,Avda 10 De Mayo S/N,nao informado,nao informado,nao informado,nao informado,23700,10011997,2,3
+Little Rock,US,6104 Young Road,nao informado,nao informado,nao informado,AR,72209,10012023,1,5
+Little Rock,US,8120 E Doyle Springs Road,nao informado,nao informado,nao informado,AR,72209,10012128,1,5
+Little Rock,US,PO Box 194255,nao informado,nao informado,nao informado,AR,72219,10012157,1,5
+Livonia,US,Accounting Department Service & Parts,PO Box 537940,nao informado,nao informado,MI,48153-7940,10012158,1,5
+Livonia,US,Detroit Technical Center,37002 Industrial Road,nao informado,nao informado,MI,48150,10012161,1,5
+Livonia,US,Field Accounting Department,PO Box 2003,nao informado,nao informado,MI,48151,10012226,2,4
+Livonia,US,PO Box 3382,Attention  Accounts Payable,nao informado,nao informado,MI,48151,10012234,2,1
+Livonia,US,S&PD-Special Accounts Sales,PO Box 537940,nao informado,nao informado,MI,48153-7940,10012235,1,0
+Longview,US,PO Box 5308,nao informado,nao informado,nao informado,TX,75608,10012305,1,5
+Louisville,US,7779 Dixie Highway,nao informado,nao informado,nao informado,KY,40258,10012328,1,5
+Madrid,UK,General Pardinas 112 Bis,nao informado,nao informado,nao informado,nao informado,28006,10012369,1,5
+Manassas,US,12000 Balls Ford Road,nao informado,nao informado,nao informado,VA,20109,10012399,1,5
+Marshfield,US,1601 East 29th Street,nao informado,nao informado,nao informado,WI,54449,10012422,2,2
+Maxwell,US,PO Box 1010,nao informado,nao informado,nao informado,CA,95955,10012425,2,4
+McHenry,US,2600 West Route 120,nao informado,nao informado,nao informado,IL,60050,10012514,1,5
+Mebane,US,PO Box 220,nao informado,nao informado,nao informado,NC,27302,10012600,1,5
+Mechanicsburg,US,Attention: Mr. Bob Smeigh,712 West Main Street,nao informado,nao informado,PA,17055,10012715,2,3
+Mechanicsburg,US,PO Box 568,nao informado,nao informado,nao informado,PA,17055,10012761,1,5
+Mechanicsville,US,6029 Mechanicsville Pike,nao informado,nao informado,nao informado,VA,23111,10012792,1,5
+Medford,US,50 Mystic Avenue,nao informado,nao informado,nao informado,MA,2155,10012799,1,5
+Medford,US,c/o Tom's Bronco Parts,2294 Sage Road,nao informado,nao informado,OR,97501,10012851,1,5
+Memphis,US,7221 Highway 64,nao informado,nao informado,nao informado,TN,38133,10012885,1,5
+Mentor,US,9049 Tyler Blvd.,nao informado,nao informado,nao informado,OH,44060,10012907,1,5
+Mercer,US,7320 West Market Street,nao informado,nao informado,nao informado,PA,16137,10012927,1,5
+Meridian,US,2400 Highway 19N,nao informado,nao informado,nao informado,MS,39307,10013011,1,5
+Miami,US,1801 NW 82nd Ave,nao informado,nao informado,nao informado,FL,33126,10013039,1,5
+Miami,US,2900 Northwest 73rd Street,nao informado,nao informado,nao informado,FL,33147,10013052,1,5
+Miami,US,7225 NW 25th Street,nao informado,nao informado,nao informado,FL,33122,10013061,1,5
+Middlebury,US,PO Box 460,nao informado,nao informado,nao informado,IN,46540,10013079,1,5
+Milesburg,US,301 Iddings Street,PO Box 865,nao informado,nao informado,PA,16853,10013080,1,5
+Milton,US,8 N Industrial Park Road,nao informado,nao informado,nao informado,PA,17847,10013127,1,5
+Milwaukie,US,11811 West Silver Spring Drive,nao informado,nao informado,nao informado,WI,53225,10013137,1,5
+Milwaukie,US,13270 SE Pheasant Court,nao informado,nao informado,nao informado,OR,97222,10013188,2,2
+Milwaukie,US,3204 W Mill Road,nao informado,nao informado,nao informado,WI,53209,10013232,2,4
+Milwaukie,US,PO Box 250825,nao informado,nao informado,nao informado,WI,53225,10013238,2,4
+Mississauga,CA,1665 Shawson Drive,nao informado,nao informado,nao informado,ON,L4W 1T7,10013252,2,2
+Mississauga,CA,3355 American Drive,nao informado,nao informado,nao informado,ON,L4V 1B3,10013312,1,5
+Missoula,US,PO Box 2640,nao informado,nao informado,nao informado,MT,59806,10013332,1,5
+Mitchell,US,Attention:  Accounts Payable,300 East Norway Avenue,nao informado,nao informado,SD,57301-7064,10013341,1,5
+Mobile,US,4700 Rangeline Road,nao informado,nao informado,nao informado,AL,36619,10013376,1,5
+Modesto,US,1023 Kansas Avenue,nao informado,nao informado,nao informado,CA,95351,10013397,1,5
+Moline,US,PO Box 8808,C/O APSS,Dept. 551,nao informado,IL,61266-8808,10013426,1,5
+Moncton,CA,1809 Main Street,nao informado,nao informado,nao informado,NB,E1E 1H5,10013467,2,1
+Monroe,US,1051 West 7th Street,Building # 2,nao informado,nao informado,WI,53566,10013472,2,4
+Montgomery,US,5415 Lamco Drive,nao informado,nao informado,nao informado,AL,36117,10013509,2,4
+Montreal,CA,6260 - Place Northcrest Suite 305,nao informado,nao informado,nao informado,QU,H3S 2T4,10013538,1,5
+Montreal,CA,Attention:  Accounts Payable,7025 Ontario Street East,nao informado,nao informado,QU,H1N 2B3,10013572,1,5
+Montreal,CA,c/o Rampar International Trade Corp.,6260 Place Northcrest Suite 305,nao informado,nao informado,QU,H3S 2T4,10013574,1,5
+Morgantown,US,1537 Sabraton Ave,nao informado,nao informado,nao informado,WV,26505,10013670,1,5
+Morton,US,Attention: Charlene Hoyer,500 North Morton Avenue,PO Box 474,nao informado,IL,61550-0474,10013765,2,4
+N-0598 Oslo,IR,Brobekkveien 105,nao informado,nao informado,nao informado,nao informado,,10013870,1,5
+nao informado,AU,2 Calle 25-80 Zona - 15 Vista,Hermosa II Local 2,nao informado,nao informado,nao informado,,10013871,1,5
+nao informado,AU,PO Box 871 Safat,nao informado,nao informado,nao informado,nao informado,,10013899,1,5
+nao informado,UK,Limited Reg Number 28388,40 Devil's Tower Road,PO Box 176,nao informado,nao informado,,10014043,1,5
+nao informado,UK,nao informado,nao informado,nao informado,nao informado,nao informado,,10014047,2,1
+nao informado,UK,Private Mail Bag 53,St Peters NSW 2044,nao informado,nao informado,nao informado,,10014059,1,5
+Nashville,US,975 Main Street,nao informado,nao informado,nao informado,TN,37206,10014064,1,5
+Nesquehoning,US,One Industrial Complex,nao informado,nao informado,nao informado,PA,18240,10014238,1,5
+New Castle,US,299 East Country Road 300 South,nao informado,nao informado,nao informado,IN,47362,10014264,2,4
+New Hampton,US,PO Box 511,nao informado,nao informado,nao informado,IA,50659,10014469,2,4
+New Orleans,US,PO Box 10455,nao informado,nao informado,nao informado,LA,70181,10014471,1,0
+Newport,US,7640 North Telegraph,nao informado,nao informado,nao informado,MI,O,10014495,2,1
+Norcross,US,1723 Webb Drive,nao informado,nao informado,nao informado,GA,30093,10014533,2,4
+North Hampton,US,60 Lafayette Road,nao informado,nao informado,nao informado,NH,3862,10014540,1,5
+North Highlands,US,3213 Orange Grove Avenue,nao informado,nao informado,nao informado,CA,95660,10014546,2,1
+North Little Rock,US,7700 Counts Massie Road,nao informado,nao informado,nao informado,AR,72113,10014739,2,2
+Oak Ridge,US,901 Oak Ridge Turnpike,nao informado,nao informado,nao informado,TN,37830,10014779,2,3
+Oakland,US,124 Hegenberger Loop,nao informado,nao informado,nao informado,CA,94621,10014802,1,5
+Oakville,CA,Central Accounting Service,PO Box 2900,nao informado,nao informado,ON,L6J 5E6,10014803,2,4
+Ocala,US,2610 NW 10th Street,nao informado,nao informado,nao informado,FL,34475,10014804,2,2
+Odessa,US,3356 Kermit Highway,nao informado,nao informado,nao informado,TX,79764,10014810,2,4
+Odessa,US,915 West 42nd,nao informado,nao informado,nao informado,TX,79764,10015011,1,5
+Okarche,US,PO Box 447,nao informado,nao informado,nao informado,OK,73762,10015030,2,1
+Oklahoma City,US,4532 Enterprise Drive,nao informado,nao informado,nao informado,OK,73128,10015253,1,5
+Okolona,US,32722 Highway 45,nao informado,nao informado,nao informado,MS,38860,10015267,1,5
+Olive Branch,US,Memphis PDC #19,Attention   Accounts Payable,PO Box 786,nao informado,MS,38654-3703,10015275,2,4
+Ooltewah,US,8503 Hilltop Drive,nao informado,nao informado,nao informado,TN,37363,10015325,1,5
+Orlando,US,4455 Dardanelle Drive,nao informado,nao informado,nao informado,FL,32808,10015495,2,4
+Ormond Beach,US,Attention: Linda,100 Business Center Drive,nao informado,nao informado,FL,32176,10015686,1,5
+Oslo,US,RR1 Box 9,nao informado,nao informado,nao informado,MN,56744,10015783,2,3
+Ottawa,US,PO Box 660,nao informado,nao informado,nao informado,KS,66067-3805,10015789,1,5
+Overland Park,US,Attention  Accounts Payable Department,PO Box 12990,nao informado,nao informado,KS,66282-2990,10015793,2,1
+Overland Park,US,Attention Accounts Payable Department,PO Box 12990,nao informado,nao informado,KS,66282-2990,10015824,2,4
+Panama Rep De Panama,IR,EDIF N 4141,Apdo Postal 642 Zona 9-A,nao informado,nao informado,nao informado,,10015886,1,5
+Pearl,US,4410 Highway 80 East,nao informado,nao informado,nao informado,MS,39209,10015956,1,5
+Petersburg,US,23308 Airpark Drive,nao informado,nao informado,nao informado,VA,23803,10016045,2,4
+Philadelphia,US,Attention: Anna Markert,3111 W Allegheny Avenue,nao informado,nao informado,PA,19132,10016047,2,2
+Phoenix,US,Attention: Accounts Payable,PO Box 21502,nao informado,nao informado,AZ,85036,10016113,1,5
+Phoenix,US,Attention: Accounts Payable,PO Box 21502,nao informado,nao informado,AZ,85036-1502,10016303,2,3
+Phoenix,US,Division of Western Truck Sales Inc,3530 East Washington Street,nao informado,nao informado,AZ,85034,10016334,2,4
+Phoenix,US,PO OB 20141,nao informado,nao informado,nao informado,AZ,85036,10016542,2,2
+Pine Bluff,US,PO Box 7647,nao informado,nao informado,nao informado,AR,71611-7647,10016548,2,2
+Pittsburgh,US,390 Fountain Street,nao informado,nao informado,nao informado,PA,15238,10016549,2,2
+Placentia,US,PO Box 958,nao informado,nao informado,nao informado,CA,92670,10016564,2,4
+Plainfield,US,Central Division,PO BOX 600,nao informado,nao informado,IN,46168-0600,10016588,2,2
+Pocahontas,US,PO Box 129,nao informado,nao informado,nao informado,IA,50574,10016609,1,0
+Pocatello,US,128 So. 2nd Avenue,nao informado,nao informado,nao informado,ID,83201,10016780,1,5
+Pomona,US,1143 W 2nd Street,nao informado,nao informado,nao informado,CA,91766,10016784,2,4
+Pontiac,US,Division Of Pontiac Michigan,17575 PP-CPDC,1251 Joslyn Road Dock 4,nao informado,MI,48340-2956,10016807,2,4
+Pontiac,US,Worldwide Purchasing,1999 Center Point Parkway,Mail Code 483-550-200,nao informado,MI,48341,10016858,2,1
+Poplar Bluff,US,1880 N Westwood,nao informado,nao informado,nao informado,MO,63901,10017036,2,4
+Portland,US,4747 N Channel Ave,nao informado,nao informado,nao informado,OR,97208-3591,10017054,2,4
+Portland,US,9440 North Whitaker Road,nao informado,nao informado,nao informado,OR,97217,10017072,2,4
+Portland,US,PO Box 20505,nao informado,nao informado,nao informado,OR,97294,10017290,1,5
+Portland,US,PO Box 30659,nao informado,nao informado,nao informado,OR,97294,10017307,1,0
+Prince George,CA,1594 Nicholson Street,nao informado,nao informado,nao informado,BC,V2N 1V6,10017314,2,2
+Prineville,US,PO Box 667,nao informado,nao informado,nao informado,OR,97754,10017553,2,4
+Puyallup,US,10023 128th St. E #7,nao informado,nao informado,nao informado,WA,98373,10017576,2,2
+Quezon City,IR,97 Banawe Street,nao informado,nao informado,nao informado,nao informado,1114,10017585,2,4
+Quito,UK,AV 6 DE DICIEMBRE,N47225 Y Samuel Fritz,nao informado,nao informado,nao informado,,10017638,2,3
+Raleigh,US,PO Box 68,nao informado,nao informado,nao informado,IL,62977-0068,10017828,2,1
+Rancho Cordova,US,3290 Monier Circle #100,nao informado,nao informado,nao informado,CA,95742,10017852,1,5
+Rancho Cordova,US,3340 A Sunrise Boulevard,nao informado,nao informado,nao informado,CA,95742-7316,10018129,1,5
+Rapid City,US,PO Box 80,nao informado,nao informado,nao informado,SD,57709,10018146,1,0
+Redding,US,850 Commerce Street,nao informado,nao informado,nao informado,CA,96002,10018352,1,5
+Regina,CA,1155 Mackay Street,nao informado,nao informado,nao informado,SK,S4N 4X9,10018363,1,5
+Rexburg,US,DBA Pronto Jobbers Warehouse,PO Box 409,nao informado,nao informado,ID,83440,10018371,1,5
+Richmond,US,PO Box 24217,nao informado,nao informado,nao informado,VA,23224,10018518,1,5
+Roanoke,US,2177 Dale Avenue SE,nao informado,nao informado,nao informado,VA,24013,10018580,2,2
+Roanoke,US,Advance Auto Parts,Attn  Merchandise Accts. Payable,P.O. Box 2710,nao informado,VA,24001,10018603,1,5
+Ruwi,IR,PO Box 880 PC-112,nao informado,nao informado,nao informado,nao informado,,10018623,2,2
+Sacramento,US,3248 Auburn Boulevard,nao informado,nao informado,nao informado,CA,95821,10018628,2,1
+Sacramento,US,Sacramento PDC #13,Attention  Accounts Payable,PO Box 15279 C,nao informado,CA,95851-1297,10018644,2,4
+Saginaw,US,PO Box 510,nao informado,nao informado,nao informado,AL,35137,10018665,2,3
+Saginaw,US,PO Box 840,nao informado,nao informado,nao informado,MI,48606,10018867,2,4
+Salem,US,63 Bridge Street,nao informado,nao informado,nao informado,MA,1970,10018868,1,5
+Salt Lake City,US,2280 South State Street,nao informado,nao informado,nao informado,UT,84115,10018871,2,4
+Salt Lake City,US,Attention: Doris Nielson,PO Box 26005,nao informado,nao informado,UT,84126,10018877,1,5
+San Antonio,US,6127 San Pedro Avenue,nao informado,nao informado,nao informado,TX,78216,10018885,2,1
+San Diego,US,4567 Federal Boulevard,nao informado,nao informado,nao informado,CA,92102,10018890,2,4
+San Jose,UK,Paseo Colon Calles 34-36,nao informado,nao informado,nao informado,nao informado,,10018950,1,5
+San Marcos,US,725 North Twin Oaks Valley Road,nao informado,nao informado,nao informado,CA,92069,10018957,1,5
+Santa Cruz,UK,Modulo 2 Manzana 27,Parque Industrial,nao informado,nao informado,nao informado,,10019066,1,5
+Santiago,UK,Attention: Rodrigo Yrarrazaval,Jose M Infante 2320 Nunoa,nao informado,nao informado,nao informado,,10019105,2,3
+Sao Paulo,UK,Rua Sepetiba 464,nao informado,nao informado,nao informado,nao informado,5052,10019109,2,1
+Saskatoon,CA,815 Circle Drive East,nao informado,nao informado,nao informado,SK,S7K 3S4,10019150,2,2
+Savannah,US,PO Box 22249,nao informado,nao informado,nao informado,GA,31403,10019194,1,5
+Schertz,US,6025 Corridor Parkway,nao informado,nao informado,nao informado,TX,78154-3214,10019388,2,1
+Schiphol-Rijk,IR,Bellsingel 2 1119NV,nao informado,nao informado,nao informado,nao informado,,10019400,2,4
+SE-132 28 Saltsjo-Boo,AU,Svarvarvagen 14,nao informado,nao informado,nao informado,nao informado,,10019410,1,0
+Seocho-GU,AU,231 Yangjae Dong,nao informado,nao informado,nao informado,nao informado,137-938,10019420,1,5
+Seoul,AU,3F Shinwoo Building,195-12 Poi-Dong Kangnam-KU,nao informado,nao informado,nao informado,135-260,10019469,1,5
+Seoul,AU,Parts Division,140-2 Kye-Dong,Chongro-Ku,nao informado,nao informado,110-793,10019502,1,5
+Shady Grove,US,PO Box 21,nao informado,nao informado,nao informado,PA,17256-0021,10019512,1,5
+Shawano,US,500 Airport Drive,nao informado,nao informado,nao informado,WI,54166,10019514,1,5
+Shelby,US,201 Old Boiling Springs Road,nao informado,nao informado,nao informado,NC,28152,10019617,2,2
+Shreveport,US,Attention: Ann Borden,PO Box 31435,nao informado,nao informado,LA,71130,10019664,2,4
+Sidney,US,One Cabela Drive,Attention: Accounts Payable,nao informado,nao informado,NE,69160,10019665,2,4
+Sioux Center,US,877 1st Avenue NW,nao informado,nao informado,nao informado,IA,51250,10019678,2,1
+Smyrna,US,Corporation USA,Nissan Drive,nao informado,nao informado,TN,37167,10019682,2,4
+Sollinge Molle,UK,5750 Ringe,nao informado,nao informado,nao informado,nao informado,,10019783,1,5
+Somerset,US,New York PDC #20,Attention  Accounts Payable,PO Box 6750,nao informado,NJ,08873-6750,10019812,1,5
+Songtan SI,AU,150-3 Chilkei-Dong,nao informado,nao informado,nao informado,nao informado,459-050,10019879,2,2
+South Bend,US,PO Box 7005,nao informado,nao informado,nao informado,IN,46634-7005,10019880,2,3
+Southfield,US,Order Processing Group,25140 Lahser Road Suite 282,nao informado,nao informado,MI,48034,10019897,2,2
+Sparks,US,540 South Rock Boulevard,nao informado,nao informado,nao informado,NV,89431,10019900,2,1
+Spokane,US,PO Box 13056,nao informado,nao informado,nao informado,WA,99213-3056,10019909,2,4
+Spring,US,2445 FM 2920,nao informado,nao informado,nao informado,TX,77388,10019913,1,0
+Springfield,US,1935 S Campbell,nao informado,nao informado,nao informado,MO,65898,10019942,2,4
+Springhill,US,PO Box 578,nao informado,nao informado,nao informado,LA,71075,10019952,1,5
+St Joseph,US,2106 South Riverside Road,nao informado,nao informado,nao informado,MO,64507-9799,10020080,1,5
+St Louis,US,5821 Hampton Avenue,nao informado,nao informado,nao informado,MO,63109,10020171,2,3
+St Louis Park,US,5711 West 36th Street,nao informado,nao informado,nao informado,MN,55416,10020181,1,5
+St. Cloud,US,18 North East 7th Avenue,nao informado,nao informado,nao informado,MN,56304,10020184,2,2
+Statesville,US,Spicer Clark - Hurth Off Highway Div,1293 Glenway Drive,nao informado,nao informado,NC,28625,10020192,2,1
+Stewartsville,US,2621 State Route 57,nao informado,nao informado,nao informado,NJ,8886,10020193,1,5
+Stockton,US,640 N Eldorado Street,nao informado,nao informado,nao informado,CA,95205,10020227,1,5
+Sun Prairie,US,666  South Thompson Road,nao informado,nao informado,nao informado,WI,53590-2553,10020239,1,5
+Surrey,CA,#9 - 19257 Enterprise Way,nao informado,nao informado,nao informado,BC,V35-6J8,10020247,1,5
+Surrey,CA,18412 96 Avenue,nao informado,nao informado,nao informado,BC,V4N 3P8,10020256,1,5
+Surrey,CA,9475 192 Street,nao informado,nao informado,nao informado,BC,V3T 4W2,10020266,1,5
+Surrey,CA,Unit 403 - 17665 - 66A Avenue,nao informado,nao informado,nao informado,BC,V3S-2A7,10020281,1,5
+Taipei,AU,8F No.19 Chang Chun Road,nao informado,nao informado,nao informado,nao informado,104,10020306,1,5
+Tampa,US,513 West Waters Avenue,nao informado,nao informado,nao informado,FL,33604,10020323,1,5
+Tampa,US,6501 Adamo Drive,nao informado,nao informado,nao informado,FL,33619,10020332,1,5
+Te Rapa Hamilton,US,Cnr Avalon Drv & Tasman Road,PO Box 20077,nao informado,nao informado,MS,,10020340,1,5
+Thief River Falls,US,600 South Brooks Avenue,nao informado,nao informado,nao informado,MN,56701,10020364,1,5
+Tigard,US,12805 SW 77th Place,nao informado,nao informado,nao informado,OR,97223,10020388,2,3
+Tigard,US,7440 South West Bonita Road,nao informado,nao informado,nao informado,OR,97224,10020390,2,4
+Tokyo 171,AU,1-2-4 Takamatsu,Toshima-Ku,nao informado,nao informado,nao informado,,10020393,2,1
+Tonawanda,US,Cache Border Services,2221 Kenmore Avenue,nao informado,nao informado,NY,14207,10020413,2,2
+Toronto,CA,1111 Finch Avenue West,Unit #22,nao informado,nao informado,ON,M3J 2E5,10020445,2,4
+Toronto,CA,480 Gordon Baker Road,nao informado,nao informado,nao informado,ON,M2H 3B4,10020446,2,4
+Traverse City,US,PO Box 2338,nao informado,nao informado,nao informado,MI,49685,10020448,1,0
+Trinity Center,US,PO Box 450,nao informado,nao informado,nao informado,CA,96091,10020449,1,5
+Troy,US,Worldwide Purchasing,1996 Technology Drive,Mail Code 483-619-114,nao informado,MI,48083,10020491,1,5
+Tulare,US,100 East Inyo,nao informado,nao informado,nao informado,CA,93274,10020492,1,5
+Tulsa,US,4345 South West Boulevard,nao informado,nao informado,nao informado,OK,74107,10020515,1,5
+Tulsa,US,Attention:  Accounts Payable,1624 North 71st East Avenue,nao informado,nao informado,OK,74115,10020639,2,2
+Tulsa,US,Division of Parkhurst,15051 E Admiral Place,nao informado,nao informado,OK,74116,10020647,2,3
+Tulsa,US,PO Box 3445,nao informado,nao informado,nao informado,OK,74101-3445,10020662,1,5
+Tulsa,US,PO Box 582510,nao informado,nao informado,nao informado,OK,74158-2510,10020663,2,1
+Tumwater,US,2649 R W Johnson Boulevard,nao informado,nao informado,nao informado,WA,98512,10020672,1,5
+Tupelo,US,PO Box 2187,nao informado,nao informado,nao informado,MS,38803-2187,10020684,2,2
+Tuscon,US,3545 South Richey Boulevard,nao informado,nao informado,nao informado,AZ,85713,10020715,1,5
+Valcourt,CA,550 Du Parc Boulevard,nao informado,nao informado,nao informado,QU,J0E 2L0,10020849,1,5
+Valencia,UK,Aut Reg Del Centro Valencia,A Pto Cabello Dist Naguanagua,Centro Comercial,IL Portico,nao informado,,10020864,1,5
+Valparaiso,US,861 West US Highway 30,nao informado,nao informado,nao informado,IN,46385,10020868,1,5
+Van Nuys,US,8000 Haskell Avenue,nao informado,nao informado,nao informado,CA,91406,10020907,1,5
+Villa Rica,US,PO Box 266,nao informado,nao informado,nao informado,GA,30180-0266,10020909,2,4
+Vinton,US,845 Third Street,nao informado,nao informado,nao informado,VA,24179,10020914,2,2
+Waldorf,US,Southern Maryland 4 X 4 Inc,2588 Old Washington Road,nao informado,nao informado,MD,20601,10020915,2,4
+Warren,US,21533 Mound Road,nao informado,nao informado,nao informado,MI,48091-2991,10020927,2,4
+Waterville,US,208 W Main,nao informado,nao informado,nao informado,KS,66548,10020931,2,1
+Watervliet,US,8300 Lane Drive,nao informado,nao informado,nao informado,MI,49098,10020962,2,3
+Wayne,US,Michigan Truck Plant,38303 Michigan Avenue,nao informado,nao informado,MI,48184,10020982,1,5
+Wells,US,209 Sanford Road (Route 109),nao informado,nao informado,nao informado,ME,4090,10021006,1,5
+West Jordan,US,PO Drawer 40,nao informado,nao informado,nao informado,UT,84084,10021015,1,5
+West Midlands,UK,Bromley St Lye Stourbridge,nao informado,nao informado,nao informado,nao informado,DY9 8HS,10021107,1,5
+West Point,US,610 Garfield Avenue,nao informado,nao informado,nao informado,PA,19486,10021111,1,5
+West Sayville,US,Attention: Paul Grady,105 Montauk Highway,nao informado,nao informado,NY,11796,10021139,2,4
+Wester Chester,US,1028 Saunders Lane,nao informado,nao informado,nao informado,PA,19380,10021145,2,2
+Wheatridge,US,10930 West 44th Avenue,nao informado,nao informado,nao informado,CO,80033,10021158,1,0
+Whitehouse,US,PO Box 588,nao informado,nao informado,nao informado,TN,37188,10021160,1,5
+Winnepeg,CA,515 Oak Point Highway,nao informado,nao informado,nao informado,MB,R2R 1V2,10021175,2,2
+Winnepeg,CA,Unicity Distribution Systems,1445 Church Avenue,nao informado,nao informado,MB,R2X 2X9,10021179,2,1
+Winnipeg,CA,PO Box 1005,nao informado,nao informado,nao informado,MB,R3C 2W7,10021184,2,1
+Winnipeg,CA,PO Box 7100,nao informado,nao informado,nao informado,MB,R3C 3B3,10021185,2,1
+Wooster,US,A Scott Fetzer Company,3201 West Old Lincoln Way,nao informado,nao informado,OH,44691,10021203,2,1
+Wrightsville,US,815 Hellam Street,nao informado,nao informado,nao informado,PA,17368,10021204,1,0
+Yakama,US,508 South First Street,nao informado,nao informado,nao informado,WA,98901,10021222,2,1
+ZI 1 Ducos,IR,Rue Champion,nao informado,nao informado,nao informado,nao informado,,10021223,2,4
+,,,,,,,,10021231,2,4
+,,,,,,,,10021232,1,5
+,,,,,,,,10021239,1,5
+,,,,,,,,10021240,1,5
+,,,,,,,,10021242,1,5
+,,,,,,,,10021270,1,5
+,,,,,,,,10021283,1,5
+,,,,,,,,10021286,1,5
+,,,,,,,,10021297,1,5
+,,,,,,,,10021300,1,5
+,,,,,,,,10021302,1,5
+,,,,,,,,10021305,1,5
+,,,,,,,,10021331,1,5
+,,,,,,,,10021350,1,5
+,,,,,,,,10021380,1,5
+,,,,,,,,10021411,1,5
+,,,,,,,,10021412,2,1
+,,,,,,,,10021415,2,4
+,,,,,,,,10021418,2,1
+,,,,,,,,10021422,2,1
+,,,,,,,,10021458,2,1
+,,,,,,,,10021459,2,2
+,,,,,,,,10021470,2,3
+,,,,,,,,10021472,1,0
+,,,,,,,,10021485,2,4
+,,,,,,,,10021494,1,5
+,,,,,,,,10021575,1,5
+,,,,,,,,10021641,1,5
+,,,,,,,,10021668,2,4
+,,,,,,,,10021673,2,4
+,,,,,,,,10021677,1,5
+,,,,,,,,10021736,1,5
+,,,,,,,,10021750,1,5
+,,,,,,,,10021794,1,5
+,,,,,,,,10021800,1,5
+,,,,,,,,10021802,1,5
+,,,,,,,,10021804,1,5
+,,,,,,,,10021911,2,2
+,,,,,,,,10021936,2,2
+,,,,,,,,10021962,2,3
+,,,,,,,,10021977,2,4
+,,,,,,,,10021986,2,4
+,,,,,,,,10021996,2,3
+,,,,,,,,10022166,1,5
+,,,,,,,,10022167,1,5
+,,,,,,,,10022168,2,4
+,,,,,,,,10022183,2,1
+,,,,,,,,10022201,1,5
+,,,,,,,,10022240,1,0
+,,,,,,,,10022249,2,2
+,,,,,,,,10022252,2,4
+,,,,,,,,10022423,2,4
+,,,,,,,,10022431,2,3
+,,,,,,,,10022434,2,1
+,,,,,,,,10022444,2,4
+,,,,,,,,10022450,2,4
+,,,,,,,,10022456,2,1
+,,,,,,,,10022470,2,2
+,,,,,,,,10022490,2,4
+,,,,,,,,10022678,2,3
+,,,,,,,,10022687,1,0
+,,,,,,,,10022725,2,2
+,,,,,,,,10022730,2,4
+,,,,,,,,10022732,2,2
+,,,,,,,,10022746,1,5
+,,,,,,,,10022750,2,4
+,,,,,,,,10022755,1,5
+,,,,,,,,10022764,2,2
+,,,,,,,,10022962,1,5
+,,,,,,,,10022978,1,5
+,,,,,,,,10023003,2,4
+,,,,,,,,10023022,1,0
+,,,,,,,,10023023,2,4
+,,,,,,,,10023212,2,1
+,,,,,,,,10023221,2,4
+,,,,,,,,10023235,2,2
+,,,,,,,,10023241,2,2
+,,,,,,,,10023244,2,2
+,,,,,,,,10023275,2,1
+,,,,,,,,10023447,2,2
+,,,,,,,,10023471,2,2
+,,,,,,,,10023489,2,1
+,,,,,,,,10023495,1,5
+,,,,,,,,10023509,2,2
+,,,,,,,,10023510,2,4
+,,,,,,,,10023511,1,5
+,,,,,,,,10023513,2,1
+,,,,,,,,10023516,2,2
+,,,,,,,,10023524,2,2
+,,,,,,,,10023538,2,2
+,,,,,,,,10023703,1,5
+,,,,,,,,10023715,2,4
+,,,,,,,,10023757,1,5
+,,,,,,,,10023759,2,2
+,,,,,,,,10023760,2,3
+,,,,,,,,10023778,2,1
+,,,,,,,,10023780,1,5
+,,,,,,,,10023783,2,2
+,,,,,,,,10023785,2,4
+,,,,,,,,10023793,2,2
+,,,,,,,,10023964,1,5
+,,,,,,,,10024003,2,1
+,,,,,,,,10024006,2,4
+,,,,,,,,10024009,2,2
+,,,,,,,,10024010,2,4
+,,,,,,,,10024016,1,5
+,,,,,,,,10024022,2,1
+,,,,,,,,10024034,1,0
+,,,,,,,,10024246,2,3
+,,,,,,,,10024248,2,1
+,,,,,,,,10024255,2,4
+,,,,,,,,10024260,2,1
+,,,,,,,,10024262,2,1
+,,,,,,,,10024270,2,1
+,,,,,,,,10024477,1,5
+,,,,,,,,10024492,2,3
+,,,,,,,,10024499,2,2
+,,,,,,,,10024524,2,4
+,,,,,,,,10024541,2,4
+,,,,,,,,10024550,2,4
+,,,,,,,,10024704,1,5
+,,,,,,,,10024725,2,2
+,,,,,,,,10024743,2,1
+,,,,,,,,10024880,1,5
+,,,,,,,,10024915,1,5
+,,,,,,,,10024916,1,5
+,,,,,,,,10024918,1,5
+,,,,,,,,10024919,1,5
+,,,,,,,,10024924,1,5
+,,,,,,,,10024930,1,5
+,,,,,,,,10024940,1,5
+,,,,,,,,10024942,1,5
+,,,,,,,,10024999,2,4
+,,,,,,,,10025021,2,4
+,,,,,,,,10025022,1,5
+,,,,,,,,10025023,1,0
+,,,,,,,,10025024,1,5
+,,,,,,,,10025025,2,1
+,,,,,,,,10025032,1,0
+,,,,,,,,10025033,2,1
+,,,,,,,,10025034,2,1
+,,,,,,,,10025036,2,4
+,,,,,,,,10025037,2,1
+,,,,,,,,10025038,2,3
+,,,,,,,,10025039,2,4
+,,,,,,,,10025040,2,2
+,,,,,,,,10025049,2,1
+,,,,,,,,10025051,2,1
+,,,,,,,,10025052,1,5
+,,,,,,,,10025061,2,4
+,,,,,,,,10025062,2,3
+,,,,,,,,10025063,1,5
+,,,,,,,,10025086,1,5
+,,,,,,,,10025158,1,5
+,,,,,,,,10025213,1,5
+,,,,,,,,10025237,1,0
+,,,,,,,,10025238,2,1
+,,,,,,,,10025239,1,5
+,,,,,,,,10025241,1,5
+,,,,,,,,10025242,1,5
+,,,,,,,,10025243,2,2
+,,,,,,,,10025246,1,0
+,,,,,,,,10025247,2,3
+,,,,,,,,10025248,2,1
+,,,,,,,,10025249,2,2
+,,,,,,,,10025250,2,2
+,,,,,,,,10025251,2,4
+,,,,,,,,10025252,2,4
+,,,,,,,,10025264,2,1
+,,,,,,,,10025267,1,5
+,,,,,,,,10025269,2,4
+,,,,,,,,10025284,2,1
+,,,,,,,,10025285,2,2
+,,,,,,,,10025287,2,4
+,,,,,,,,10025288,1,5
+,,,,,,,,10025289,2,1
+,,,,,,,,10025291,2,4
+,,,,,,,,10025296,2,4
+,,,,,,,,10025298,1,0
+,,,,,,,,10025299,1,0
+,,,,,,,,10025300,2,3
+,,,,,,,,10025302,2,2
+,,,,,,,,10025304,1,5
+,,,,,,,,10025305,2,1
+,,,,,,,,10025353,1,5
+,,,,,,,,10025359,1,5
+,,,,,,,,10025392,1,5
+,,,,,,,,10025418,1,5
+,,,,,,,,10025467,1,5
+,,,,,,,,10025495,2,2
+,,,,,,,,10025508,1,0
+,,,,,,,,10025511,2,1
+,,,,,,,,10025515,2,2
+,,,,,,,,10025549,2,3
+,,,,,,,,10025552,2,4
+,,,,,,,,10025558,2,2
+,,,,,,,,10025560,2,2
+,,,,,,,,10025571,2,4
+,,,,,,,,10025575,1,0
+,,,,,,,,10025583,2,3
+,,,,,,,,10025587,2,1
+,,,,,,,,10025608,1,5
+,,,,,,,,10025737,1,5
+,,,,,,,,10025758,2,2
+,,,,,,,,10025769,2,1
+,,,,,,,,10025771,2,3
+,,,,,,,,10025778,2,1
+,,,,,,,,10025791,2,1
+,,,,,,,,10025808,2,1
+,,,,,,,,10025814,2,2
+,,,,,,,,10025878,1,5
+,,,,,,,,10025919,2,1
+,,,,,,,,10026006,1,0
+,,,,,,,,10026009,1,5
+,,,,,,,,10026023,1,5
+,,,,,,,,10026038,1,5
+,,,,,,,,10026055,2,4
+,,,,,,,,10026062,2,2
+,,,,,,,,10026078,2,4
+,,,,,,,,10026081,1,5
+,,,,,,,,10026268,1,0
+,,,,,,,,10026291,2,4
+,,,,,,,,10026294,1,5
+,,,,,,,,10026299,2,2
+,,,,,,,,10026334,1,5
+,,,,,,,,10026336,2,2
+,,,,,,,,10026348,2,2
+,,,,,,,,10026355,2,1
+,,,,,,,,10026365,1,5
+,,,,,,,,10026438,1,5
+,,,,,,,,10026521,1,5
+,,,,,,,,10026522,2,4
+,,,,,,,,10026532,2,4
+,,,,,,,,10026536,2,2
+,,,,,,,,10026560,2,4
+,,,,,,,,10026581,2,2
+,,,,,,,,10026606,2,4
+,,,,,,,,10026839,2,2
+,,,,,,,,10026843,2,1
+,,,,,,,,10026861,2,1
+,,,,,,,,10026868,1,5
+,,,,,,,,10027050,2,4
+,,,,,,,,10027053,2,4
+,,,,,,,,10027082,1,0
+,,,,,,,,10027119,1,5
+,,,,,,,,10027340,2,3
+,,,,,,,,10027348,2,2
+,,,,,,,,10027356,2,4
+,,,,,,,,10027370,1,5
+,,,,,,,,10027381,2,1
+,,,,,,,,10027560,2,2
+,,,,,,,,10027572,2,3
+,,,,,,,,10027575,2,2
+,,,,,,,,10027583,2,4
+,,,,,,,,10027629,2,4
