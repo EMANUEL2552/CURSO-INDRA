@@ -84,6 +84,19 @@ from dim_vendas
 """)
 
 salvar_df(df_vendas,file='dim_temp')
+salvar_df(df_clientes, 'df_clientess')
+salvar_df(df_vendas,'ft')
+
+dim_loc = df_endereco = spark.sql("""
+   select address_number, city, country , customer_address_1, customer_address_2, customer_address_3, customer_address_4,
+   state, zip_code
+   from dim_localidade
+   
+
+
+""")
+
+salvar_df(df_endereco, 'dim_loc')
 
 # função para salvar os dados
 def salvar_df(df, file):
