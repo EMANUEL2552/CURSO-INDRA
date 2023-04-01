@@ -1,0 +1,685 @@
+﻿Business Family,Business Unit,Customer,Customer Type,CustomerKey,Line of Business,Phone,Search Type
+O1,1,Brentano's Shop,G2,10006983,nao informado,816-455-8733,C
+O1,1,Healtheon Shop,G2,10014810,nao informado,816-455-8733,C
+O1,1,Onestar Shop,G2,10020909,nao informado,816-455-8733,C
+O1,1,WDND Shop,G2,10026348,nao informado,816-455-8733,C
+O2,1,A&G Shop,G1,10000457,nao informado,816-455-8733,C
+O2,1,Accent Market,G1,10002117,nao informado,816-455-8733,C
+O2,1,ACS Market,G2,10002244,nao informado,816-455-8733,C
+O2,1,C3 Supermarket,G2,10007253,nao informado,816-455-8733,C
+O2,1,CalComp Shop,G3,10007457,nao informado,816-455-8733,C
+O2,1,Day Market,G2,10009645,nao informado,816-455-8733,C
+O2,1,Edmark Shop,G1,10010923,nao informado,816-455-8733,C
+O2,1,Federal Supermarket,G3,10011724,nao informado,816-455-8733,C
+O2,1,Fenwick Supermarket,G2,10011870,nao informado,816-455-8733,C
+O2,1,Gamma Supermarket,G2,10013039,nao informado,816-455-8733,C
+O2,1,Gate Shop,G2,10013252,nao informado,816-455-8733,C
+O2,1,Harte-Hanks Market,G2,10014469,nao informado,816-455-8733,C
+O2,1,Harvey Shop,G2,10014533,nao informado,816-455-8733,C
+O2,1,Holy Supermarket,G2,10016542,nao informado,816-455-8733,C
+O2,1,K Shop,G2,10018518,nao informado,816-455-8733,C
+O2,1,Karsings,G2,10018871,nao informado,816-455-8733,C
+O2,1,Kendrick Store,G2,10018950,nao informado,816-455-8733,C
+O2,1,KentISP Shop,G2,10019109,nao informado,816-455-8733,C
+O2,1,Kentucky Supermarket,G2,10019150,nao informado,816-455-8733,C
+O2,1,Litton Supermarket,G2,10019880,nao informado,816-455-8733,C
+O2,1,Lobster Market,G2,10019952,nao informado,816-455-8733,C
+O2,1,Lucky Shop,G2,10020080,nao informado,816-455-8733,C
+O2,1,Matradi Megastore,G2,10020184,nao informado,816-455-8733,C
+O2,1,MaXpeed Shop,G2,10020239,nao informado,816-455-8733,C
+O2,1,Maxtor Shop,G2,10020256,nao informado,816-455-8733,C
+O2,1,Maxwell Supermarket,G2,10020266,nao informado,816-455-8733,C
+O2,1,Old Store,G1,10020715,nao informado,816-455-8733,C
+O2,1,Pacific Market,G2,10021203,nao informado,816-455-8733,C
+O2,1,PacificServ Shop,G2,10021223,nao informado,816-455-8733,C
+O2,1,Papyrus Shop,G2,10021459,nao informado,816-455-8733,C
+O2,1,R.J. Market,G2,10022444,nao informado,816-455-8733,C
+O2,1,Sigma Shop,G2,10024255,nao informado,816-455-8733,C
+O2,1,Talarians,G2,10025024,nao informado,816-455-8733,C
+O2,1,Target Gigstore,G1,10025052,nao informado,816-455-8733,C
+O2,1,Tartanchase Shop,G1,10025086,nao informado,816-455-8733,C
+O2,1,Team Supermarket,G3,10025237,nao informado,816-455-8733,C
+O2,1,Teamsolve Shop,G1,10025242,nao informado,816-455-8733,C
+O2,1,Ventana Maxistore,G1,10026081,nao informado,816-455-8733,C
+O2,1,Xentec Shop,G2,10026560,nao informado,816-455-8733,C
+O2,1,Xilinix Midstore,G2,10026606,nao informado,816-455-8733,C
+O2,1,Zocalo Shop,G2,10027629,nao informado,816-455-8733,C
+R1,1,A&B Shop,G3,10000456,nao informado,816-455-8733,C
+R1,1,A1 Store,G3,10000461,nao informado,816-455-8733,C
+R1,1,Accrue Shop,G2,10002139,nao informado,816-455-8733,C
+R1,1,Betacorp Shop,G2,10005006,nao informado,816-455-8733,C
+R1,1,Central Supermarket,G2,10009356,nao informado,816-455-8733,C
+R1,1,Crew Superstore,G2,10023023,nao informado,816-455-8733,C
+R1,1,Dci Shop,G3,10009652,nao informado,816-455-8733,C
+R1,1,DDR Shop,G2,10009660,nao informado,816-455-8733,C
+R1,1,Ed Store,G2,10010881,nao informado,816-455-8733,C
+R1,1,EDGE Supermarket,G2,10010886,nao informado,816-455-8733,C
+R1,1,Elbit Market,G2,10010990,nao informado,816-455-8733,C
+R1,1,Ferst Shop,G2,10011923,nao informado,816-455-8733,C
+R1,1,Finder Shop,G2,10012328,nao informado,816-455-8733,C
+R1,1,Fins Shop,G2,10012425,nao informado,816-455-8733,C
+R1,1,Gastown Store,G2,10013238,nao informado,816-455-8733,C
+R1,1,Harts Superstore,G3,10014471,nao informado,816-455-8733,C
+R1,1,HMR Shop,G2,10016303,nao informado,816-455-8733,C
+R1,1,Homestead Market,G3,10016609,nao informado,816-455-8733,C
+R1,1,Icon Superstore,G2,10017036,nao informado,816-455-8733,C
+R1,1,K&M Supermarket,G2,10018623,nao informado,816-455-8733,C
+R1,1,Keystone Store,G3,10019410,nao informado,816-455-8733,C
+R1,1,Koppers Supermarket,G2,10019664,nao informado,816-455-8733,C
+R1,1,Lee Megastore,G2,10017828,nao informado,816-455-8733,C
+R1,1,Pacific Store,G3,10021204,nao informado,816-455-8733,C
+R1,1,PAP Supermarket,G2,10021422,nao informado,816-455-8733,C
+R1,1,Paracel Gigaplace,G2,10021485,nao informado,816-455-8733,C
+R1,1,PayMaxx Shop,G2,10021794,nao informado,816-455-8733,C
+R1,1,QualServe Shop,G2,10022168,nao informado,816-455-8733,C
+R1,1,Revnet Market,G2,10023241,nao informado,816-455-8733,C
+R1,1,Sage Supermarket,G1,10023511,nao informado,816-455-8733,C
+R1,1,Salamander Supermarket,G2,10023538,nao informado,816-455-8733,C
+R1,1,Screen Supermarket,G2,10024022,nao informado,816-455-8733,C
+R1,1,T.J.T. Supermarket,G1,10024919,nao informado,816-455-8733,C
+R1,1,Tandy Superstore,G2,10025039,nao informado,816-455-8733,C
+R1,1,TeamStore,G1,10025241,nao informado,816-455-8733,C
+R1,1,Texasgulf Market,G2,10025249,nao informado,816-455-8733,C
+R1,1,UniPress Shop,G2,10025515,nao informado,816-455-8733,C
+R2,1,?change Store,G2,10010832,nao informado,816-455-8733,C
+R2,1,A-ARVIN Store,G2,10000474,nao informado,816-455-8733,C
+R2,1,Abbotsbury Shop,G2,10000480,nao informado,816-455-8733,C
+R2,1,Abbott Shop,G2,10000481,nao informado,816-455-8733,C
+R2,1,Acacia Shop,G2,10001784,nao informado,816-455-8733,C
+R2,1,AccuCom Shop,G2,10002142,nao informado,816-455-8733,C
+R2,1,ACCUCOMP Shop,G3,10002144,nao informado,816-455-8733,C
+R2,1,Ace Market,G2,10002153,nao informado,816-455-8733,C
+R2,1,Acer Superstore,G3,10002154,nao informado,816-455-8733,C
+R2,1,ACME Maxiplace,G2,10002161,nao informado,816-455-8733,C
+R2,1,Age Shop,G2,10003720,nao informado,816-455-8733,C
+R2,1,Bens Megaplace,G2,10004245,nao informado,816-455-8733,C
+R2,1,C.O.F. Shop,G2,10007183,nao informado,816-455-8733,C
+R2,1,Caleidoscopio Supermarket,G2,10007468,nao informado,816-455-8733,C
+R2,1,Calypso Maxi Store,G2,10007536,nao informado,816-455-8733,C
+R2,1,CAM Market,G2,10007564,nao informado,816-455-8733,C
+R2,1,Cambio Shop,G2,10007566,nao informado,816-455-8733,C
+R2,1,Capitola Market,G2,10008593,nao informado,816-455-8733,C
+R2,1,DCP Supermarket,G3,10009653,nao informado,816-455-8733,C
+R2,1,Debian Shop,G2,10009697,nao informado,816-455-8733,I
+R2,1,Del Supermarket,G2,10009907,nao informado,816-455-8733,C
+R2,1,East Shop,G2,10010717,nao informado,816-455-8733,C
+R2,1,Edify Shop,G2,10010897,nao informado,816-455-8733,C
+R2,1,Edna Megaplace,G2,10010935,nao informado,816-455-8733,C
+R2,1,EDS Shop,G2,10010974,nao informado,816-455-8733,C
+R2,1,Embedded Supermarket,G3,10011089,nao informado,816-455-8733,C
+R2,1,Equitable Store,G2,10011360,nao informado,816-455-8733,C
+R2,1,Farr Market,G2,10011521,nao informado,816-455-8733,C
+R2,1,Federal Supermarket,G2,10011623,nao informado,816-455-8733,C
+R2,1,Firehole Shop,G2,10012514,nao informado,816-455-8733,C
+R2,1,Garlin Supermarket,G2,10013137,nao informado,816-455-8733,C
+R2,1,Gate9th Shop,G2,10013312,nao informado,816-455-8733,C
+R2,1,Gatierf Supermarket,G2,10013341,nao informado,816-455-8733,C
+R2,1,Grove Supermarket,G2,10013871,nao informado,816-455-8733,C
+R2,1,Gulf Market,G2,10014047,nao informado,816-455-8733,C
+R2,1,GURUs Shop,G2,10014059,nao informado,816-455-8733,C
+R2,1,H.H. Store,G2,10014064,nao informado,816-455-8733,C
+R2,1,Haz-Mat Store,G2,10014739,nao informado,816-455-8733,C
+R2,1,Hegemony Shop,G2,10015030,nao informado,816-455-8733,C
+R2,1,Helius Shop,G2,10015325,nao informado,816-455-8733,C
+R2,1,Heurikon Shop,G2,10015824,nao informado,816-455-8733,C
+R2,1,Hill Supermarket,G2,10016113,nao informado,816-455-8733,C
+R2,1,IBEX Shop,G2,10016784,nao informado,816-455-8733,C
+R2,1,IBVA Shop,G2,10016858,nao informado,816-455-8733,C
+R2,1,iLanguage Shop,G2,10017553,nao informado,816-455-8733,C
+R2,1,K Supermarket,G2,10018580,nao informado,816-455-8733,C
+R2,1,K.C. Supermarket,G2,10018628,nao informado,816-455-8733,C
+R2,1,Kimball Supermarket,G2,10019514,nao informado,816-455-8733,C
+R2,1,Lewis Supermarket,G2,10019812,nao informado,816-455-8733,C
+R2,1,LiveWORLD Shop,G2,10019909,nao informado,816-455-8733,C
+R2,1,Maui Store,G2,10020193,nao informado,816-455-8733,C
+R2,1,MAXSTRAT Shop,G2,10020247,nao informado,816-455-8733,C
+R2,1,NACSCORP Shop,G2,10020446,nao informado,816-455-8733,C
+R2,1,NECX Market,G2,10020639,nao informado,816-455-8733,C
+R2,1,One Store,G2,10020864,nao informado,816-455-8733,C
+R2,1,OutPost Market,G2,10020931,nao informado,816-455-8733,C
+R2,1,Output Supermarket,G2,10020962,nao informado,816-455-8733,C
+R2,1,Pacel Shop,G2,10021145,nao informado,816-455-8733,C
+R2,1,Pacific Supermarket,G2,10021185,nao informado,816-455-8733,C
+R2,1,Packard Supermarket,G2,10021231,nao informado,816-455-8733,C
+R2,1,PageWave Megastore,G2,10021300,nao informado,816-455-8733,C
+R2,1,PageWeavers Shop,G2,10021302,nao informado,816-455-8733,C
+R2,1,Palo Supermarket,G2,10021331,nao informado,816-455-8733,C
+R2,1,Pinnacle Supermarket,G2,10021986,nao informado,816-455-8733,C
+R2,1,Qwest Shop,G2,10022423,nao informado,816-455-8733,C
+R2,1,R&J Shop,G2,10022431,nao informado,816-455-8733,C
+R2,1,Radio Market,G2,10000601,nao informado,816-455-8733,C
+R2,1,RC Market,G2,10022732,nao informado,816-455-8733,C
+R2,1,RC Shop,G2,10022730,nao informado,816-455-8733,C
+R2,1,Renaissance Supermarket,G3,10023022,nao informado,816-455-8733,C
+R2,1,ReviewBooth Shop,G2,10023235,nao informado,816-455-8733,C
+R2,1,Revolutionary Supermarket,G2,10023244,nao informado,816-455-8733,C
+R2,1,Satyam Shop,G2,10023785,nao informado,816-455-8733,C
+R2,1,Savetz Store,G2,10023793,nao informado,816-455-8733,C
+R2,1,Scientific Supermarket,G2,10024003,nao informado,816-455-8733,C
+R2,1,Scottish Supermarket,G2,10024009,nao informado,816-455-8733,C
+R2,1,Screaming Market,G2,10024010,nao informado,816-455-8733,C
+R2,1,Southam Supermarket,G2,10024524,nao informado,816-455-8733,C
+R2,1,Southwire Store,G2,10024550,nao informado,816-455-8733,C
+R2,1,T.F.C. Shop,G2,10024918,nao informado,816-455-8733,C
+R2,1,Tadpole Shop,G2,10024940,nao informado,816-455-8733,C
+R2,1,TAGnology Shop,G2,10024999,nao informado,816-455-8733,C
+R2,1,Tampere Shop,G2,10025037,nao informado,816-455-8733,C
+R2,1,Tanager Shop,G2,10025038,nao informado,816-455-8733,C
+R2,1,Tatters Shop,G2,10025213,nao informado,816-455-8733,C
+R2,1,Telesat Supermarket,G2,10025247,nao informado,816-455-8733,C
+R2,1,TICOR Shop,G2,10025250,nao informado,816-455-8733,C
+R2,1,Time Supermarket,G2,10025251,nao informado,816-455-8733,C
+R2,1,Total Store,G2,10025353,nao informado,816-455-8733,I
+R2,1,TransCanada Store,G2,10025287,nao informado,816-455-8733,C
+R2,1,Ultra-Image Shop,G2,10025418,nao informado,816-455-8733,C
+R2,1,UNIS Supermarket,G2,10025549,nao informado,816-455-8733,C
+R2,1,United Market,G2,10025583,nao informado,816-455-8733,C
+R2,1,United Store,G2,10025587,nao informado,816-455-8733,C
+R2,1,Venable Shop,G2,10026062,nao informado,816-455-8733,C
+R2,1,WarRoom Store,G3,10026268,nao informado,816-455-8733,C
+R2,1,Xediom Shop,G2,10026532,nao informado,816-455-8733,C
+R2,1,Zephyr Shop,G2,10027348,nao informado,816-455-8733,I
+R2,1,Zilog Shop,G2,10027560,nao informado,816-455-8733,C
+R2,1,zNET Shop,G2,10027583,nao informado,816-455-8733,C
+R3,1,A Supermarket,G1,10000453,nao informado,816-455-8733,C
+R3,1,A&R Market,G2,10000458,nao informado,816-455-8733,C
+R3,1,a2i Shop,G2,10000462,nao informado,816-455-8733,C
+R3,1,A2Z Store,G2,10000466,nao informado,816-455-8733,C
+R3,1,A-2-Z Supermarket,G3,10000469,nao informado,816-455-8733,C
+R3,1,Aadast Shop,G1,10000471,M1,816-455-8733,C
+R3,1,Aaron Store,G2,10000472,nao informado,816-455-8733,C
+R3,1,Aaron Supermarket,G2,10000473,nao informado,816-455-8733,C
+R3,1,AA-Wizard Shop,G2,10000475,nao informado,816-455-8733,C
+R3,1,Abacus Market,G2,10000478,nao informado,816-455-8733,C
+R3,1,Aberdeen Shop,G2,10000486,nao informado,816-455-8733,C
+R3,1,ABI Supermarket,G1,10000488,M1,816-455-8733,C
+R3,1,AboveNet Shop,G2,10000496,nao informado,816-455-8733,C
+R3,1,Abplus Shop,G1,10000497,nao informado,816-455-8733,C
+R3,1,ABSolute Shop,G2,10000499,nao informado,816-455-8733,C
+R3,1,Absolute Supermarket,G3,10000501,nao informado,816-455-8733,C
+R3,1,Abstract Shop,G1,10000502,M1,816-455-8733,C
+R3,1,AC Store,G2,10001103,nao informado,816-455-8733,C
+R3,1,AC&E Shop,G1,10001263,M1,816-455-8733,C
+R3,1,Acara Shop,G2,10001786,nao informado,816-455-8733,C
+R3,1,Acc Supermarket,G2,10001818,nao informado,816-455-8733,C
+R3,1,Accel Supermarket,G2,10002114,nao informado,816-455-8733,C
+R3,1,Accent Store,G1,10002115,M1,816-455-8733,C
+R3,1,Access Store,G1,10002128,M1,816-455-8733,C
+R3,1,AccessWare Shop,G1,10002136,M1,816-455-8733,C
+R3,1,Accidental Shop,G2,10002137,nao informado,816-455-8733,C
+R3,1,ACCPAC Store,G2,10002138,nao informado,816-455-8733,C
+R3,1,Accton Shop,G2,10002140,nao informado,816-455-8733,C
+R3,1,AccuLAN Shop,G2,10002149,nao informado,816-455-8733,I
+R3,1,Accumedic Store,G2,10002150,nao informado,816-455-8733,C
+R3,1,ACES Supermarket,G1,10002155,M1,816-455-8733,C
+R3,1,ACI Shop,G1,10002159,M1,816-455-8733,C
+R3,1,ACRON Shop,G3,10002220,nao informado,816-455-8733,C
+R3,1,ACS Shop,G2,10002240,nao informado,816-455-8733,C
+R3,1,Acsior Shop,G1,10002412,M1,816-455-8733,C
+R3,1,ACT Supermarket,G2,10002489,nao informado,816-455-8733,C
+R3,1,Action Supermarket,G1,10002501,nao informado,816-455-8733,C
+R3,1,ActionWorld Shop,G2,10002506,nao informado,816-455-8733,C
+R3,1,ActivCard Shop,G1,10002520,M1,816-455-8733,C
+R3,1,Active Shop,G1,10002526,M1,816-455-8733,C
+R3,1,Active Store,G2,10002709,nao informado,816-455-8733,C
+R3,1,Active Store,G2,10002765,nao informado,816-455-8733,C
+R3,1,Active Supermarket,G2,10002746,nao informado,816-455-8733,C
+R3,1,ActiveC Shop,G3,10002964,nao informado,816-455-8733,C
+R3,1,activeDesign Shop,G2,10002969,nao informado,816-455-8733,C
+R3,1,Ad Supermarket,G1,10003554,M1,816-455-8733,C
+R3,1,Ad-vantage Shop,G2,10003687,nao informado,816-455-8733,C
+R3,1,Associates Shop,G1,10003749,M1,816-455-8733,C
+R3,1,Bechtel Supermarket,G2,10003795,nao informado,816-455-8733,C
+R3,1,Beckman Market,G2,10003857,nao informado,816-455-8733,C
+R3,1,Beech Supermarket,G2,10003882,nao informado,816-455-8733,C
+R3,1,Bell Store,G1,10004207,M1,816-455-8733,C
+R3,1,Bendix Store,G1,10004255,M1,816-455-8733,C
+R3,1,Benedict Shop,G2,10004256,nao informado,816-455-8733,C
+R3,1,Berkeley Supermarket,G2,10004302,M1,816-455-8733,C
+R3,1,Besicorp Shop,G1,10004516,M1,816-455-8733,C
+R3,1,Best Supermarket,G2,10004602,nao informado,816-455-8733,C
+R3,1,Bezeq Shop,G1,10005043,M1,816-455-8733,C
+R3,1,BF Supermarket,G2,10005099,nao informado,816-455-8733,C
+R3,1,BH Supermarket,G2,10005236,nao informado,816-455-8733,C
+R3,1,Bibb Store,G2,10005376,nao informado,816-455-8733,C
+R3,1,BidCast Shop,G2,10005620,nao informado,816-455-8733,C
+R3,1,Bien Supermarket,G2,10005688,nao informado,816-455-8733,C
+R3,1,Big Shop,G1,10005810,M1,816-455-8733,C
+R3,1,Big Store,G2,10005919,nao informado,816-455-8733,C
+R3,1,Big Supermarket,G1,10005861,M1,816-455-8733,C
+R3,1,Big Supermarket,G2,10005922,nao informado,816-455-8733,C
+R3,1,Bigelow Store,G1,10006037,nao informado,816-455-8733,C
+R3,1,BigJobs Shop,G2,10006093,nao informado,816-455-8733,C
+R3,1,Bitstream Shop,G1,10006805,nao informado,816-455-8733,C
+R3,1,Biz-comm Shop,G1,10006836,M1,816-455-8733,C
+R3,1,Bizmarts Shop,G2,10006846,nao informado,816-455-8733,C
+R3,1,BizNet Supermarket,G2,10006848,nao informado,816-455-8733,C
+R3,1,BL Supermarket,G2,10006862,nao informado,816-455-8733,C
+R3,1,Boott Store,G2,10006916,nao informado,816-455-8733,C
+R3,1,Borden Supermarket,G2,10006917,nao informado,816-455-8733,C
+R3,1,Bounds Megaplace,G2,10016588,M1,816-455-8733,C
+R3,1,Brazilian Supermarket,G2,10006977,nao informado,816-455-8733,C
+R3,1,Bre-X Shop,G1,10007117,M1,816-455-8733,C
+R3,1,Brinco Store,G2,10007120,nao informado,816-455-8733,C
+R3,1,C Market,G2,10007121,nao informado,816-455-8733,C
+R3,1,C Store,G2,10007122,nao informado,816-455-8733,C
+R3,1,C Supermarket,G2,10007123,nao informado,816-455-8733,C
+R3,1,C&C Shop,G2,10007134,M1,816-455-8733,C
+R3,1,C. Store,G1,10007163,M1,816-455-8733,C
+R3,1,C3I Shop,G2,10007258,nao informado,816-455-8733,C
+R3,1,Cabco Supermarket,G2,10007268,nao informado,816-455-8733,I
+R3,1,Cadtex Shop,G1,10007309,M1,816-455-8733,C
+R3,1,CAF Market,G2,10007355,nao informado,816-455-8733,C
+R3,1,Cajun Shop,G2,10007448,nao informado,816-455-8733,C
+R3,1,Cam-Built Supermarket,G2,10007577,nao informado,816-455-8733,C
+R3,1,Camros Shop,G1,10007866,M1,816-455-8733,C
+R3,1,Canter Shop,G2,10008134,M1,816-455-8733,C
+R3,1,CAPCON Shop,G2,10008381,nao informado,816-455-8733,C
+R3,1,Caprica Supermarket,G2,10008602,nao informado,816-455-8733,C
+R3,1,CAPTA Shop,G2,10008638,nao informado,816-455-8733,C
+R3,1,Caravelle Shop,G2,10008893,nao informado,816-455-8733,C
+R3,1,Carden Supermarket,G2,10009156,nao informado,816-455-8733,C
+R3,1,Caribian Supermarket,G2,10000455,nao informado,816-455-8733,C
+R3,1,Champs Gigaplace,G1,10009606,M1,816-455-8733,C
+R3,1,Chas Market,G2,10009623,nao informado,816-455-8733,I
+R3,1,City Supermarket,G2,10000000,nao informado,816-455-8733,C
+R3,1,Clearout Shop,G2,10009631,nao informado,816-455-8733,C
+R3,1,ComeStore,G1,10007591,M1,816-455-8733,C
+R3,1,Dan Store,G2,10009633,nao informado,816-455-8733,C
+R3,1,Data Supermarket,G1,10009639,M1,816-455-8733,C
+R3,1,David Store,G2,10009642,nao informado,816-455-8733,C
+R3,1,David Store,G2,10009643,nao informado,816-455-8733,C
+R3,1,Dayton Store,G1,10009650,M1,816-455-8733,C
+R3,1,Dayton Supermarket,G2,10009647,nao informado,816-455-8733,C
+R3,1,DCS Market,G2,10009656,nao informado,816-455-8733,C
+R3,1,DCS Store,G2,10009654,nao informado,816-455-8733,C
+R3,1,DC-Works Shop,G2,10009657,nao informado,816-455-8733,C
+R3,1,De Store,G2,10009662,nao informado,816-455-8733,C
+R3,1,De Store,G2,10009669,nao informado,816-455-8733,C
+R3,1,DEAC Shop,G2,10009672,nao informado,816-455-8733,C
+R3,1,Debenhams Supermarket,G2,10009679,nao informado,816-455-8733,C
+R3,1,Deere Store,G1,10009863,M1,816-455-8733,C
+R3,1,Degolyer Supermarket,G3,10009885,nao informado,816-455-8733,C
+R3,1,"Dellovade, Supermarket",G2,10026055,nao informado,816-455-8733,C
+R3,1,Diss Gigastore,G2,10023715,M1,816-455-8733,C
+R3,1,E Supermarket,G2,10009985,M1,816-455-8733,C
+R3,1,Earth Shop,G2,10010698,nao informado,816-455-8733,C
+R3,1,ECI Supermarket,G2,10010855,nao informado,816-455-8733,C
+R3,1,ECS Supermarket,G2,10010865,nao informado,816-455-8733,C
+R3,1,EDA Supermarket,G2,10010882,nao informado,816-455-8733,I
+R3,1,EDC Supermarket,G3,10010884,M1,816-455-8733,C
+R3,1,Edia Shop,G3,10010887,nao informado,816-455-8733,C
+R3,1,eDistrict Shop,G2,10010904,nao informado,816-455-8733,C
+R3,1,ediSys Shop,G2,10010906,nao informado,816-455-8733,C
+R3,1,edit.nl Shop,G2,10010912,M1,816-455-8733,C
+R3,1,Editor Shop,G2,10010914,M1,816-455-8733,C
+R3,1,Edorex Supermarket,G2,10010969,nao informado,816-455-8733,C
+R3,1,EDP Shop,G2,10010970,nao informado,816-455-8733,C
+R3,1,Eloi Supermarket,G2,10011018,nao informado,816-455-8733,C
+R3,1,Elucidex Shop,G2,10011052,nao informado,816-455-8733,C
+R3,1,EMC Shop,G2,10011093,M1,816-455-8733,C
+R3,1,e-MDs Shop,G2,10011198,nao informado,816-455-8733,C
+R3,1,Emergent Shop,G2,10011345,nao informado,816-455-8733,C
+R3,1,Enterprises Shop,G2,10011355,nao informado,816-455-8733,C
+R3,1,Ethyl Store,G2,10011398,nao informado,816-455-8733,C
+R3,1,F. Supermarket,G2,10011459,nao informado,816-455-8733,C
+R3,1,Farmland Supermarket,G2,10011499,nao informado,816-455-8733,C
+R3,1,Farrell Supermarket,G2,10011546,nao informado,816-455-8733,C
+R3,1,FCS Shop,G2,10011600,nao informado,816-455-8733,C
+R3,1,Federated Supermarket,G2,10011732,nao informado,816-455-8733,C
+R3,1,Felidae Enterprises,G2,10011734,nao informado,816-455-8733,C
+R3,1,FenP Supermarket,G2,10011821,nao informado,816-455-8733,C
+R3,1,Fentek Market,G2,10011842,nao informado,816-455-8733,C
+R3,1,Ferrari Shop,G2,10011918,nao informado,816-455-8733,I
+R3,1,FiberPlex Shop,G1,10011979,M1,816-455-8733,C
+R3,1,FIBERWORKS Shop,G2,10011981,nao informado,816-455-8733,C
+R3,1,Fibronics Shop,G2,10011997,nao informado,816-455-8733,C
+R3,1,FICOM Shop,G3,10012023,nao informado,816-455-8733,C
+R3,1,Fifth Store,G2,10012157,nao informado,816-455-8733,C
+R3,1,Fifth Supermarket,G3,10012128,nao informado,816-455-8733,C
+R3,1,Filene? Shop,G2,10012158,nao informado,816-455-8733,C
+R3,1,Filetron Shop,G2,10012161,nao informado,816-455-8733,C
+R3,1,Fills,G2,10012226,nao informado,816-455-8733,C
+R3,1,Filmotype Shop,G2,10012234,nao informado,816-455-8733,C
+R3,1,Fimetrics Supermarket,G3,10012235,nao informado,816-455-8733,C
+R3,1,FIND/SVP Shop,G2,10012305,nao informado,816-455-8733,C
+R3,1,Finest Supermarket,G2,10012369,nao informado,816-455-8733,C
+R3,1,Finisar Shop,G2,10012399,nao informado,816-455-8733,C
+R3,1,Finishing Shop,G2,10012422,nao informado,816-455-8733,C
+R3,1,FireTrans Shop,G2,10012600,nao informado,816-455-8733,C
+R3,1,Fokas Midstore,G2,10012715,M1,816-455-8733,C
+R3,1,G.R. Supermarket,G1,10012761,M1,816-455-8733,C
+R3,1,Gadzoox Supermarket,G2,10012792,nao informado,816-455-8733,C
+R3,1,Gaecom Shop,G1,10012799,M1,816-455-8733,C
+R3,1,Gailey Market,G2,10012851,nao informado,816-455-8733,C
+R3,1,Gainunion Shop,G2,10012885,nao informado,816-455-8733,C
+R3,1,Galaxy Store,G2,10012907,nao informado,816-455-8733,C
+R3,1,Galaxy Supermarket,G2,10012927,nao informado,816-455-8733,C
+R3,1,Gamacles Shop,G1,10013011,M1,816-455-8733,C
+R3,1,GammaGraphX Store,G2,10013052,nao informado,816-455-8733,C
+R3,1,Gammel Group,G3,10013061,nao informado,816-455-8733,C
+R3,1,Gandalf Supermarket,G2,10013079,nao informado,816-455-8733,C
+R3,1,Ganymede Shop,G2,10013080,nao informado,816-455-8733,C
+R3,1,Garbee Supermarket,G3,10013127,M1,816-455-8733,C
+R3,1,Gartner Supermarket,G2,10013188,nao informado,816-455-8733,C
+R3,1,Garza Supermarket,G2,10013232,nao informado,816-455-8733,C
+R3,1,GateMaster Shop,G2,10013332,nao informado,816-455-8733,C
+R3,1,GCC Store,G3,10013376,nao informado,816-455-8733,C
+R3,1,G-Com Supermarket,G2,10013397,nao informado,816-455-8733,C
+R3,1,GDC Shop,G2,10013426,nao informado,816-455-8733,C
+R3,1,GDSS Shop,G2,10013467,nao informado,816-455-8733,C
+R3,1,GE Market,G2,10013472,nao informado,816-455-8733,C
+R3,1,Geac Shop,G2,10013509,nao informado,816-455-8733,C
+R3,1,GEAR Shop,G2,10013538,nao informado,816-455-8733,C
+R3,1,GearSource Shop,G2,10013572,nao informado,816-455-8733,C
+R3,1,Gebbie Store,G2,10013574,nao informado,816-455-8733,C
+R3,1,Gehlken Supermarket,G2,10013670,nao informado,816-455-8733,C
+R3,1,Gemini Supermarket,G2,10013765,nao informado,816-455-8733,C
+R3,1,Greymac Trust Company,G2,10013870,nao informado,816-455-8733,C
+R3,1,Grumman Market,G2,10013899,nao informado,816-455-8733,C
+R3,1,Guarantee Supermarket,G1,10014043,M1,816-455-8733,C
+R3,1,Harbor Store,G1,10014238,M1,816-455-8733,C
+R3,1,Harbour Store,G2,10014264,nao informado,816-455-8733,C
+R3,1,Harvard Supermarket,G2,10014495,nao informado,816-455-8733,C
+R3,1,HarveyOpolis Shop,G1,10014540,M1,816-455-8733,C
+R3,1,Hauppauge Supermarket,G2,10014546,nao informado,816-455-8733,C
+R3,1,HBO Supermarket,G2,10014779,nao informado,816-455-8733,C
+R3,1,HBS Shop,G1,10014802,M1,816-455-8733,C
+R3,1,HCHS Shop,G2,10014803,nao informado,816-455-8733,C
+R3,1,HCS Shop,G2,10014804,nao informado,816-455-8733,C
+R3,1,Hederman Supermarket,G1,10015011,M1,816-455-8733,C
+R3,1,Hekimian Store,G3,10015253,nao informado,816-455-8733,C
+R3,1,Helfand Store,G1,10015267,M1,816-455-8733,C
+R3,1,Helios Shop,G2,10015275,nao informado,816-455-8733,C
+R3,1,Hennings,G2,10015495,M1,816-455-8733,C
+R3,1,Hercules Supermarket,G2,10015686,nao informado,816-455-8733,C
+R3,1,Hershey Supermarket,G2,10015783,nao informado,816-455-8733,I
+R3,1,hesketh.com Shop,G1,10015789,M1,816-455-8733,C
+R3,1,Hetrick Supermarket,G2,10015793,nao informado,816-455-8733,C
+R3,1,Hewlett Supermarket,G2,10015886,nao informado,816-455-8733,C
+R3,1,Hidden Market,G2,10015956,nao informado,816-455-8733,C
+R3,1,High Store,G2,10016047,nao informado,816-455-8733,C
+R3,1,High Supermarket,G2,10016045,nao informado,816-455-8733,C
+R3,1,Hobart Store,G2,10016334,M1,816-455-8733,C
+R3,1,Home Market,G2,10016564,nao informado,816-455-8733,C
+R3,1,Home Store,G2,10016549,nao informado,816-455-8733,C
+R3,1,Home Superstore,G2,10016548,nao informado,816-455-8733,C
+R3,1,Hoovey SuperStore,G1,10006919,M1,816-455-8733,C
+R3,1,iBEAM Shop,G1,10016780,M1,816-455-8733,C
+R3,1,Ibis Shop,G2,10016807,M1,816-455-8733,C
+R3,1,Icon Market,G2,10017054,nao informado,816-455-8733,C
+R3,1,Iconation Shop,G2,10017072,nao informado,816-455-8733,C
+R3,1,Id Shop,G1,10017290,M1,816-455-8733,C
+R3,1,Idyll Store,G3,10017307,nao informado,816-455-8733,C
+R3,1,Idyllwild Shop,G2,10017314,nao informado,816-455-8733,C
+R3,1,Illuminati Shop,G2,10017576,nao informado,816-455-8733,C
+R3,1,Ilog Shop,G2,10017585,nao informado,816-455-8733,C
+R3,1,J.A. Supermarket,G1,10017852,M1,816-455-8733,C
+R3,1,J.M. Market,G1,10018129,M1,816-455-8733,C
+R3,1,J.M. Supermarket,G3,10018146,nao informado,816-455-8733,C
+R3,1,Johnson Store,G3,10018352,nao informado,816-455-8733,C
+R3,1,Jones Stores,G1,10018363,M1,816-455-8733,C
+R3,1,Joy Supermarket,G1,10018371,M1,816-455-8733,C
+R3,1,K&K Supermarket,G1,10018603,M1,816-455-8733,C
+R3,1,Kabbalah Shop,G2,10018644,M1,816-455-8733,C
+R3,1,Kaim Supermarket,G2,10018665,M1,816-455-8733,C
+R3,1,Kari Supermarket,G2,10018867,nao informado,816-455-8733,C
+R3,1,Karickal Store,G1,10018868,M1,816-455-8733,C
+R3,1,KAT Store,G1,10018877,M1,816-455-8733,C
+R3,1,Kawneer Market,G2,10018885,nao informado,816-455-8733,C
+R3,1,Kazinformcom Shop,G2,10018890,nao informado,816-455-8733,C
+R3,1,Kellys Gigastore,G2,10017638,nao informado,816-455-8733,C
+R3,1,Kennecott Supermarket,G2,10018957,nao informado,816-455-8733,C
+R3,1,KENROB Megaplace,G2,10019066,nao informado,816-455-8733,C
+R3,1,Kensington Market,G2,10019105,nao informado,816-455-8733,C
+R3,1,Kerite Company,G2,10019194,nao informado,816-455-8733,C
+R3,1,KeyComm Shop,G2,10019388,nao informado,816-455-8733,C
+R3,1,Keystar Superstore,G2,10019400,nao informado,816-455-8733,C
+R3,1,Keystroke Market,G1,10019420,M1,816-455-8733,C
+R3,1,kGS Shop,G2,10019469,nao informado,816-455-8733,C
+R3,1,KillerGraffix Shop,G2,10019502,nao informado,816-455-8733,C
+R3,1,Kim Market,G2,10019512,nao informado,816-455-8733,C
+R3,1,Kool-Seal Shop,G2,10019617,nao informado,816-455-8733,C
+R3,1,Labatt Supermarket,G2,10019665,M1,816-455-8733,C
+R3,1,Laker Market,G2,10019678,nao informado,816-455-8733,C
+R3,1,Lamson Store,G2,10019682,nao informado,816-455-8733,C
+R3,1,Levi Supermarket,G1,10019783,M1,816-455-8733,C
+R3,1,Litton Shop,G2,10019879,nao informado,816-455-8733,C
+R3,1,Livermore Store,G2,10019897,nao informado,816-455-8733,C
+R3,1,LiveWire Supermarket,G2,10019900,nao informado,816-455-8733,C
+R3,1,Livezone Supermarket,G3,10019913,nao informado,816-455-8733,C
+R3,1,LMAO superplace,G2,10019942,nao informado,816-455-8733,C
+R3,1,Lynn-Arthur Store,G2,10020171,nao informado,816-455-8733,C
+R3,1,Markets,G1,10020181,M1,816-455-8733,C
+R3,1,MATRIX Shop,G2,10020192,nao informado,816-455-8733,C
+R3,1,MaxBan Shop,G2,10020227,nao informado,816-455-8733,C
+R3,1,Mb Market,G1,10020281,M1,816-455-8733,C
+R3,1,McGraw-Hill Supermarket,G2,10020306,nao informado,816-455-8733,C
+R3,1,Mead Supermarket,G1,10020323,M1,816-455-8733,C
+R3,1,Meals Market,G2,10000460,nao informado,816-455-8733,C
+R3,1,Medics Shop,G2,10020332,nao informado,816-455-8733,C
+R3,1,Melville Supermarket,G2,10020340,nao informado,816-455-8733,C
+R3,1,Mersey Market,G2,10020364,nao informado,816-455-8733,C
+R3,1,"Metro-Goldwyn-Mayer, Supermarket",G2,10020388,nao informado,816-455-8733,C
+R3,1,Miles Supermarket,G2,10020390,nao informado,816-455-8733,C
+R3,1,Minneapolis Supermarket,G2,10020393,nao informado,816-455-8733,C
+R3,1,Molson Store,G2,10020413,nao informado,816-455-8733,C
+R3,1,N.Graphics Shop,G2,10020445,nao informado,816-455-8733,C
+R3,1,Nanao Shop,G3,10020448,nao informado,816-455-8733,C
+R3,1,Nancy Supermarket,G1,10020449,M1,816-455-8733,C
+R3,1,Nbase Shop,G1,10020491,M1,816-455-8733,C
+R3,1,NBTel Shop,G2,10020492,nao informado,816-455-8733,C
+R3,1,NBX Stores,G2,10020515,nao informado,816-455-8733,C
+R3,1,Neeka Shop,G2,10020647,nao informado,816-455-8733,C
+R3,1,Nematron Shop,G1,10020662,M1,816-455-8733,C
+R3,1,Neos Gigaplace,G2,10020663,nao informado,816-455-8733,C
+R3,1,Oki Shop,G1,10020672,M1,816-455-8733,C
+R3,1,Oklahoma Supermarket,G2,10020684,nao informado,816-455-8733,C
+R3,1,OnDeck Store,G2,10020849,nao informado,816-455-8733,C
+R3,1,One Market,G2,10020868,nao informado,816-455-8733,C
+R3,1,Onebox Shop,G1,10020907,nao informado,816-455-8733,C
+R3,1,Onetouch Supermarket,G2,10020914,nao informado,816-455-8733,C
+R3,1,Ottercom Shop,G2,10020915,nao informado,816-455-8733,C
+R3,1,Outbreak Shop,G2,10020927,nao informado,816-455-8733,C
+R3,1,Outsource Store,G2,10020982,nao informado,816-455-8733,C
+R3,1,Overdreams Shop,G2,10021006,nao informado,816-455-8733,C
+R3,1,Owl's Supermarket,G2,10021015,nao informado,816-455-8733,C
+R3,1,P.C.G. Supermarket,G2,10021107,nao informado,816-455-8733,C
+R3,1,P.C'S Shop,G3,10021111,nao informado,816-455-8733,C
+R3,1,Pace Shop,G3,10021139,nao informado,816-455-8733,C
+R3,1,Pacific Gigaplace,G1,10021160,M1,816-455-8733,C
+R3,1,Pacific Store,G2,10021179,nao informado,816-455-8733,C
+R3,1,Pacific Supermarket,G2,10021175,nao informado,816-455-8733,C
+R3,1,Pacific Supermarket,G2,10021184,nao informado,816-455-8733,C
+R3,1,Pacific Supermarket,G3,10021158,nao informado,816-455-8733,C
+R3,1,Pacifico's,G2,10021222,nao informado,816-455-8733,C
+R3,1,Packet Design,G2,10021232,nao informado,816-455-8733,C
+R3,1,PADL Shop,G2,10021239,nao informado,816-455-8733,C
+R3,1,Page Market,G2,10021270,nao informado,816-455-8733,C
+R3,1,PAGE Shop,G2,10021240,nao informado,816-455-8733,C
+R3,1,Page Store,G3,10021242,nao informado,816-455-8733,C
+R3,1,PageBoy Shop,G2,10021283,nao informado,816-455-8733,C
+R3,1,PagePoint Shop,G2,10021286,nao informado,816-455-8733,C
+R3,1,PageSites Shop,G2,10021297,nao informado,816-455-8733,C
+R3,1,Pallister Supermarket,G2,10021305,nao informado,816-455-8733,C
+R3,1,Panasonic Shop,G2,10021350,nao informado,816-455-8733,C
+R3,1,Pangaea Store,G2,10021380,nao informado,816-455-8733,C
+R3,1,Panix Shop,G2,10021411,nao informado,816-455-8733,C
+R3,1,Pantech Supermarket,G2,10021415,nao informado,816-455-8733,C
+R3,1,Panzl Shop,G2,10021418,nao informado,816-455-8733,C
+R3,1,Paperless Store,G2,10021458,nao informado,816-455-8733,C
+R3,1,Papyrus Supermarket,G2,10021470,nao informado,816-455-8733,C
+R3,1,Parabole Shop,G3,10021472,nao informado,816-455-8733,C
+R3,1,Paraclipse Shop,G2,10021494,nao informado,816-455-8733,C
+R3,1,Parian Market,G2,10021575,nao informado,816-455-8733,C
+R3,1,Password Supermarket,G2,10021641,nao informado,816-455-8733,C
+R3,1,Pathlight Market,G2,10021668,nao informado,816-455-8733,C
+R3,1,Patient Shop,G2,10021673,nao informado,816-455-8733,C
+R3,1,Patrick Market,G1,10021677,M1,816-455-8733,C
+R3,1,Patton Store,G1,10021736,M1,816-455-8733,C
+R3,1,Paul Store,G2,10021750,nao informado,816-455-8733,I
+R3,1,Payton Supermarket,G2,10021800,nao informado,816-455-8733,C
+R3,1,Pereras,G2,10009676,nao informado,816-455-8733,C
+R3,1,Pick Store,G1,10021802,M1,816-455-8733,C
+R3,1,Picka Superstore,G2,10021804,nao informado,816-455-8733,C
+R3,1,PING Shop,G1,10021911,M1,816-455-8733,C
+R3,1,PING Shop,G2,10021911,M1,816-455-8733,C
+R3,1,Pink Supermarket,G2,10021936,nao informado,816-455-8733,C
+R3,1,Pinnacle Shop,G2,10021962,nao informado,816-455-8733,C
+R3,1,Pinnacle Store,G2,10021977,M1,816-455-8733,C
+R3,1,Pinnacle Supermarket,G2,10021996,M1,816-455-8733,C
+R3,1,PLAINFIELD Market,G1,10026438,M1,816-455-8733,C
+R3,1,QualityLogic Shop,G2,10022166,nao informado,816-455-8733,I
+R3,1,Quallaby Megaplace,G1,10022167,M1,816-455-8733,C
+R3,1,Quantex Supermarket,G2,10022183,nao informado,816-455-8733,C
+R3,1,Quantum Shop,G1,10022201,M1,816-455-8733,C
+R3,1,Quantum Supermarket,G2,10022249,nao informado,816-455-8733,C
+R3,1,Quantum Supermarket,G2,10022252,nao informado,816-455-8733,C
+R3,1,Quantum Supermarket,G3,10022240,nao informado,816-455-8733,C
+R3,1,R&R Store,G2,10022434,nao informado,816-455-8733,C
+R3,1,R2J2 Shop,G2,10022450,M1,816-455-8733,C
+R3,1,Ra Maxistore,G2,10022456,nao informado,816-455-8733,C
+R3,1,Racal Store,G2,10022470,nao informado,816-455-8733,C
+R3,1,Racal-Datacom Shop,G2,10022490,M1,816-455-8733,C
+R3,1,Rave Supermarket,G2,10022678,nao informado,816-455-8733,C
+R3,1,Ravenwerks Shop,G3,10022687,nao informado,816-455-8733,C
+R3,1,Razorfish Shop,G2,10022725,nao informado,816-455-8733,C
+R3,1,Rdlabs Shop,G1,10022746,M1,816-455-8733,C
+R3,1,Ready-to-Run Shop,G2,10022750,M1,816-455-8733,C
+R3,1,Real Supermarket,G1,10022755,M1,816-455-8733,C
+R3,1,RealiDyne Shop,G2,10022764,nao informado,816-455-8733,C
+R3,1,Reflex Store,G1,10022962,M1,816-455-8733,C
+R3,1,Relcom Shop,G2,10022978,nao informado,816-455-8733,I
+R3,1,Remedy Shop,G2,10023003,M1,816-455-8733,C
+R3,1,Reuters Supermarket,G2,10023212,nao informado,816-455-8733,C
+R3,1,Reveal Supermarket,G2,10023221,M1,816-455-8733,C
+R3,1,RFI Superstore,G2,10023275,nao informado,816-455-8733,C
+R3,1,RKS Shop,G2,10023447,M1,816-455-8733,C
+R3,1,Road Warriors,G2,10023471,nao informado,816-455-8733,C
+R3,1,Robust Store,G2,10023489,nao informado,816-455-8733,C
+R3,1,Safe Shop,G1,10023495,M1,816-455-8733,C
+R3,1,Safetynet Shop,G2,10023509,nao informado,816-455-8733,C
+R3,1,Sage Shop,G2,10023510,nao informado,816-455-8733,C
+R3,1,Sagent Shop,G2,10023513,nao informado,816-455-8733,C
+R3,1,SAIC Supermarket,G2,10023516,nao informado,816-455-8733,C
+R3,1,Salias Gigaplace,G2,10023524,nao informado,816-455-8733,C
+R3,1,Sarcom Shop,G1,10023703,M1,816-455-8733,C
+R3,1,SAS Supermarket,G1,10023757,nao informado,816-455-8733,C
+R3,1,SASCO Store,G2,10023759,nao informado,816-455-8733,C
+R3,1,SataMine Shop,G2,10023760,nao informado,816-455-8733,C
+R3,1,Satronix Shop,G2,10023778,nao informado,816-455-8733,C
+R3,1,SAT-SAGEM Supermarket,G1,10023780,M1,816-455-8733,C
+R3,1,Saturnus Supermarket,G2,10023783,nao informado,816-455-8733,C
+R3,1,Science Store,G3,10023964,nao informado,816-455-8733,C
+R3,1,ScotGold Market,G2,10024006,M1,816-455-8733,C
+R3,1,Screen Supermarket,G1,10024016,M1,816-455-8733,C
+R3,1,Script Supermarket,G3,10024034,nao informado,816-455-8733,C
+R3,1,Siemens Supermarket,G2,10024246,nao informado,816-455-8733,C
+R3,1,Sifton Supermarket,G2,10024248,M1,816-455-8733,C
+R3,1,Sigma Supermarket,G2,10024260,nao informado,816-455-8733,C
+R3,1,Signature Shop,G2,10024262,nao informado,816-455-8733,C
+R3,1,Signatures Superstore,G2,10024270,nao informado,816-455-8733,C
+R3,1,Smith Supermarket,G1,10024477,M1,816-455-8733,C
+R3,1,SNC Supermarket,G2,10024492,nao informado,816-455-8733,C
+R3,1,Soloman Market,G2,10024499,nao informado,816-455-8733,C
+R3,1,Southern Supermarket,G2,10024541,nao informado,816-455-8733,C
+R3,1,Sterling Store,G2,10024704,nao informado,816-455-8733,C
+R3,1,Stone Market,G2,10024725,nao informado,816-455-8733,C
+R3,1,Stone Supermarket,G2,10024743,nao informado,816-455-8733,C
+R3,1,Sun Supermarket,G3,10024880,nao informado,816-455-8733,C
+R3,1,Systems Store,G1,10024915,M1,816-455-8733,C
+R3,1,T Market,G2,10024916,nao informado,816-455-8733,C
+R3,1,T.M. Store,G1,10024924,M1,816-455-8733,C
+R3,1,T3West Shop,G3,10024930,nao informado,816-455-8733,C
+R3,1,Tag Supermarket,G2,10024942,nao informado,816-455-8733,C
+R3,1,Tailwind Shop,G2,10025021,nao informado,816-455-8733,C
+R3,1,Take Supermarket,G1,10025022,M1,816-455-8733,C
+R3,1,TAL Store,G3,10025023,nao informado,816-455-8733,C
+R3,1,Taligent Midstore,G2,10025025,M1,816-455-8733,C
+R3,1,Talkland Shop,G1,10025032,M1,816-455-8733,C
+R3,1,Tally Store,G2,10025033,nao informado,816-455-8733,C
+R3,1,Talou Shop,G2,10025034,nao informado,816-455-8733,C
+R3,1,Tampa Market,G2,10025036,nao informado,816-455-8733,C
+R3,1,Tangent Shop,G2,10025040,nao informado,816-455-8733,C
+R3,1,Tao Store,G2,10025049,nao informado,816-455-8733,C
+R3,1,Taos Supermarket,G2,10025051,nao informado,816-455-8733,C
+R3,1,Target Store,G2,10025061,nao informado,816-455-8733,C
+R3,1,TargetedListings Shop,G2,10025062,nao informado,816-455-8733,C
+R3,1,Taroch Mexistore,G1,10025063,M1,816-455-8733,C
+R3,1,Taskers Supermarket,G1,10025158,M1,816-455-8733,C
+R3,1,Team Supermarket,G2,10025238,nao informado,816-455-8733,C
+R3,1,Teamaker Shop,G2,10025239,nao informado,816-455-8733,C
+R3,1,Teca-Print Shop,G2,10025243,nao informado,816-455-8733,C
+R3,1,TECC Shop,G3,10025246,nao informado,816-455-8733,C
+R3,1,Telus Store,G2,10025248,nao informado,816-455-8733,C
+R3,1,Times Store,G2,10025252,nao informado,816-455-8733,C
+R3,1,Today Shop,G2,10025264,nao informado,816-455-8733,C
+R3,1,Todd Supermarket,G3,10025267,nao informado,816-455-8733,C
+R3,1,Toledo Market,G2,10025269,M1,816-455-8733,C
+R3,1,Towmotor Supermarket,G2,10025284,nao informado,816-455-8733,C
+R3,1,Transalta Store,G2,10025285,nao informado,816-455-8733,C
+R3,1,Transylvania Supermarket,G1,10025288,M1,816-455-8733,C
+R3,1,Tredegar Market,G2,10025289,nao informado,816-455-8733,C
+R3,1,Trend Market,G2,10025291,nao informado,816-455-8733,C
+R3,1,Trust Supermarket,G2,10025296,nao informado,816-455-8733,C
+R3,1,U. Supermarket,G3,10025298,nao informado,816-455-8733,C
+R3,1,U.S. Market,G2,10025300,nao informado,816-455-8733,C
+R3,1,U.S. Market,G2,10025302,nao informado,816-455-8733,C
+R3,1,U.S. Market,G3,10025299,M1,816-455-8733,C
+R3,1,UBF Shop,G2,10025304,nao informado,816-455-8733,C
+R3,1,Ubicco Shop,G2,10025305,nao informado,816-455-8733,C
+R3,1,Ultimate Supermarket,G2,10025392,nao informado,816-455-8733,C
+R3,1,Underwriters Supermarket,G2,10025467,nao informado,816-455-8733,C
+R3,1,UniForum Shop,G2,10025495,nao informado,816-455-8733,C
+R3,1,Unimedya Shop,G3,10025508,nao informado,816-455-8733,C
+R3,1,Uniplex Shop,G2,10025511,nao informado,816-455-8733,C
+R3,1,Unison Medistore,G2,10025552,nao informado,816-455-8733,C
+R3,1,Unisys Shop,G2,10025558,nao informado,816-455-8733,C
+R3,1,Unisys Supermarket,G2,10025560,M1,816-455-8733,C
+R3,1,Unitec Maxistore,G2,10025571,nao informado,816-455-8733,C
+R3,1,United Market,G3,10025575,nao informado,816-455-8733,C
+R3,1,Universal Supermarket,G3,10025608,nao informado,816-455-8733,C
+R3,1,Userland Maxistore,G2,10025737,nao informado,816-455-8733,C
+R3,1,UTStarGate Shop,G2,10025758,nao informado,816-455-8733,C
+R3,1,UUmail Shop,G2,10025769,nao informado,816-455-8733,C
+R3,1,VA Supermarket,G2,10025771,nao informado,816-455-8733,C
+R3,1,Valicert Midstore,G2,10025778,nao informado,816-455-8733,C
+R3,1,Valley Market,G2,10025791,M1,816-455-8733,C
+R3,1,Valley Store,G2,10025808,nao informado,816-455-8733,C
+R3,1,Valpatken Shop,G2,10025814,nao informado,816-455-8733,C
+R3,1,ValueClick Shop,G1,10025878,M1,816-455-8733,C
+R3,1,Vanstars,G2,10025919,M1,816-455-8733,C
+R3,1,Vector USA,G3,10026006,nao informado,816-455-8733,C
+R3,1,Vectrix Shop,G1,10026009,M1,816-455-8733,C
+R3,1,VEI Shop,G2,10026023,nao informado,816-455-8733,C
+R3,1,Velos Supermarket,G1,10026038,M1,816-455-8733,C
+R3,1,Venred Shop,G2,10026078,nao informado,816-455-8733,C
+R3,1,Warsun Supermarket,G2,10026291,nao informado,816-455-8733,C
+R3,1,Wasabi Shop,G1,10026294,M1,816-455-8733,C
+R3,1,Watcom Maxistore,G2,10026299,nao informado,816-455-8733,C
+R3,1,Wayne's Market,G2,10026334,nao informado,816-455-8733,C
+R3,1,WBM Store,G2,10026336,nao informado,816-455-8733,C
+R3,1,We Market,G2,10026355,nao informado,816-455-8733,C
+R3,1,Whites,G2,10026365,nao informado,816-455-8733,C
+R3,1,Xcert Shop,G1,10026521,M1,816-455-8733,C
+R3,1,XCOM Shop,G2,10026522,nao informado,816-455-8733,C
+R3,1,Xenet Shop,G2,10026536,nao informado,816-455-8733,C
+R3,1,Xetron Shop,G2,10026581,nao informado,816-455-8733,C
+R3,1,Xtreme Shop,G2,10026839,M1,816-455-8733,C
+R3,1,XVT Shop,G2,10026843,nao informado,816-455-8733,C
+R3,1,Xyplex Shop,G2,10026861,nao informado,816-455-8733,C
+R3,1,Xyratex Shop,G1,10026868,M1,816-455-8733,C
+R3,1,Your Market,G2,10027050,nao informado,816-455-8733,C
+R3,1,YourFuture Shop,G2,10027053,nao informado,816-455-8733,C
+R3,1,ySecret Shop,G3,10027082,nao informado,816-455-8733,C
+R3,1,Yurie Market,G2,10027119,nao informado,816-455-8733,C
+R3,1,Zentrum Market,G2,10027340,nao informado,816-455-8733,C
+R3,1,Zero Market,G2,10027356,nao informado,816-455-8733,C
+R3,1,Zero-Knowledge Supermarket,G2,10027381,nao informado,816-455-8733,C
+R3,1,Zeroo Gigastore,G1,10027370,M1,816-455-8733,C
+R3,1,ZipLip.Com Shop,G2,10027572,nao informado,816-455-8733,C
+R3,1,Zitel Shop,G2,10027575,nao informado,816-455-8733,C
+R4,1,Capitolnet Supermarket,G2,10008596,nao informado,816-455-8733,C
+R4,1,Emergency Shop,G2,10011286,nao informado,816-455-8733,C
+R4,1,Panngea Shop,G2,10021412,nao informado,816-455-8733,C
+R4,1,UKnames.net Shop,G2,10025359,nao informado,816-455-8733,C
