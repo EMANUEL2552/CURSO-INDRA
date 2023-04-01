@@ -49,8 +49,25 @@ from ft_vendas
  'sales_quantity',
  'sales_rep']
 
+
+
 #criando as dimensões
-dim_clientes = []
+df_clientess = df_1 = spark.sql("""
+select  business_family, business_unity, customer, customerkey, customer_type, 
+   line_of_business, phone, search_type 
+   from dim_cli 
+
+
+""")
+
+['business_family',
+ 'business_unity',
+ 'customer',
+ 'customerkey',
+ 'customer_type',
+ 'line_of_business',
+ 'phone',
+ 'search_type']
 
 # função para salvar os dados
 def salvar_df(df, file):
