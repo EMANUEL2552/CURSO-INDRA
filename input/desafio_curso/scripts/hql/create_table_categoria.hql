@@ -95,3 +95,4 @@ FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
 location '/datalake/raw/clientes/'
 TBLPROPERTIES ("skip.header.line.count"="1");
+

@@ -45,3 +45,5 @@ def salvar_df(df, file):
     os.system(rename)
 
 salvar_df(dim_clientes, 'dimclientes')
+
+~
