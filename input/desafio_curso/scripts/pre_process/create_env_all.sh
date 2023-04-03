@@ -1,15 +1,11 @@
 #!/bin/bash
 
-# Criação das pastas
 
-DADOS=("cidade" "estado" "filial" "parceiro" "cliente" "subcategoria" "categoria" "item_pedido" "produto")
+echo "Digite o nome da pasta a ser criada:"
+read nome_pasta
 
-for i in "${DADOS[@]}"
-do
-	echo "$i"
-    cd ../../raw/
-    hdfs dfs -mkdir /datalake/raw/$i
-    hdfs dfs -chmod 777 /datalake/raw/$i
-    hdfs dfs -copyFromLocal $i.csv /datalake/raw/$i
-    beeline -u jdbc:hive2://localhost:10000 -f ../../scripts/hql/create_table_$i.hql 
-done
+
+hdfs dfs -mkdir -p datalake/raw/"$nome_pasta"
+
+hdfs dfs -copyFromLocal "input/desafio_curso/raw/${nome_pasta}.csv" "datalake/raw/${nome_pasta}/"
+
